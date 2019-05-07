@@ -13,9 +13,9 @@ with open('dcl/__init__.py', 'rb') as f:
 		f.read().decode('utf-8')).group(1)))
 
 setup(
-	name='Zutron',
+	name='dcl',
 	version=version,
-	description='Zutron',
+	description='DCL',
 	author='John Vincent Fiel',
 	author_email='johnvincentfiel@gmail.com',
 	packages=find_packages(),
