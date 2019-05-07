@@ -1,0 +1,42 @@
+OrderNumber,InventoryStatus,PaymentStatus,Vendor,ContactName,Phone,VendorAddress1,VendorAddress2,VendorCity,VendorState,VendorCountry,VendorPostalCode,VendorAddressRemarks,ShipToCompanyName,ShipToAddress1,ShipToAddress2,ShipToCity,ShipToState,ShipToCountry,ShipToPostalCode,ShipToAddressRemarks,CurrencyCode,ExchangeRate,NonVendorCost,OrderDate,OrderRemarks,Freight,DueDate,DatePaid,AmountPaid,RequestedShipDate,VendorOrderNumber,Location,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,VendorItemCode,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled
+PO-000199,Fulfilled,Paid,SOUNDSYSTEM GLOBAL VENTURES,HENRY .B NATHAN,8152770023,Adepele Street,Ikeja,,Lagos,Nigeria,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,NGN,1,,7/25/2018 11:20:00 AM,"TERMS: 
+
+PAYMENT: 80% PAYMENT IN ADVANCED.
+
+BALANCED TO BE COMPLETD AFTER SUPPLY.
+
+PORT OF DESTIATION : ABUJA AIR PORT.
+
+
+
+
+VIVIAN OPARA
+SUPPLY CHAIN.",,,8/30/2018 11:05:02 AM,1972000,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,APC UPS 2.2KVA,APC UPS 2.2 KVA,29,,34000,0 %,2.2KVA,986000,,Taxable,False
+PO-000199,Fulfilled,Paid,SOUNDSYSTEM GLOBAL VENTURES,HENRY .B NATHAN,8152770023,Adepele Street,Ikeja,,Lagos,Nigeria,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,NGN,1,,7/25/2018 11:20:00 AM,"TERMS: 
+
+PAYMENT: 80% PAYMENT IN ADVANCED.
+
+BALANCED TO BE COMPLETD AFTER SUPPLY.
+
+PORT OF DESTIATION : ABUJA AIR PORT.
+
+
+
+
+VIVIAN OPARA
+SUPPLY CHAIN.",,,8/30/2018 11:05:02 AM,1972000,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,HP LASER JET PRINTER 102A,HP LASER JET PRINTER 102A,29,,34000,0 %,102A,986000,,Taxable,False
+PO-000200,Fulfilled,Paid,Elitech Group B.V (Instruments/spare parts),Anneke te Winkel,+31 313 430 577,"Van Rensselaerweg4, 6956AV
+",Spankeren,,,Netherlands,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,7/26/2018 11:20:54 AM,"TERMS: 
+
+PAYMENT; FOC
+
+DELIVERY: within 3 days of receipt of PO.
+
+PORT OF DESTINATION: CIP LAGOS AIRPORT.
+
+
+
+
+
+VIVIAN OPARA
+SUPPLY CHAIN UNIT.",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,CO2 ELECTRODE,"CO2 ELECTRODE, 3918-003(FOC)",29,,0,0 %,3918-003,0,,Taxable,False

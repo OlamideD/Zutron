@@ -1,0 +1,453 @@
+OrderNumber,InventoryStatus,PaymentStatus,Customer,ContactName,Phone,Email,BillingAddress1,BillingAddress2,BillingCity,BillingState,BillingCountry,BillingPostalCode,BillingAddressRemarks,ShipToCompanyName,ShippingAddress1,ShippingAddress2,ShippingCity,ShippingState,ShippingCountry,ShippingPostalCode,ShippingAddressRemarks,CurrencyCode,ExchangeRate,NonCustomerCost,OrderDate,OrderRemarks,Freight,InvoicedDate,DueDate,DatePaid,AmountPaid,RequestedShipDate,PONumber,SalesRep,Location,PricingScheme,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,Sales Type,Sales Person,LPO Date,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled
+SO-000004,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,faith alive,,,Faith Alive,,Jos,Plateau,Nigeria,23401,,,Faith Alive,,Jos,Plateau,Nigeria,23401,,NGN,1,,3/15/2017 12:00:00 AM,"2 PC OF ACETATE PAPER AND 2 BTL OF SHANDON BUFFER WERE USED IN REPAIR OF THE MACHINE.
+
+   --Kindly find attached requisition form.
+customer made a payment of N650,000.00 into access bank. find attached
+
+Balalnce payment on 11-8-17",,3/15/2017 12:00:00 AM,3/15/2017 12:00:00 AM,8/11/2017 12:00:00 AM,795000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ELECTROPHORESIS POWER SUPPLY, CTN ",CTN,1,,795000,0 %,795000,,Taxable,False
+SO-000004,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,faith alive,,,Faith Alive,,Jos,Plateau,Nigeria,23401,,,Faith Alive,,Jos,Plateau,Nigeria,23401,,NGN,1,,3/15/2017 12:00:00 AM,"2 PC OF ACETATE PAPER AND 2 BTL OF SHANDON BUFFER WERE USED IN REPAIR OF THE MACHINE.
+
+   --Kindly find attached requisition form.
+customer made a payment of N650,000.00 into access bank. find attached
+
+Balalnce payment on 11-8-17",,3/15/2017 12:00:00 AM,3/15/2017 12:00:00 AM,8/11/2017 12:00:00 AM,795000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,ELECTROPHORESIS MACHINE TANK,BOSCH ELECTROPHERESIS TANK,1,,0,0 %,0,,Taxable,False
+SO-000132,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,faith alive,,,FAITH ALIVE FOUNDATION,,,Jos,Nigeria,,,,FAITH ALIVE FOUNDATION,,,Jos,Nigeria,,,NGN,1,,4/20/2017 4:21:32 PM,REPLACEMENT of convergy ise analyzer,,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,",S/N 0370811160087,1,,0,0 %,0,,Taxable,False
+SO-000292,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Mr Paschal,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,6/6/2017 8:42:31 AM,,,,6/6/2017 12:00:00 AM,,0,6/6/2017 12:00:00 AM,,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,APHERESIS MACHINE MCS+,HEMONETICS APHERESIS MACHINE.SN:15L7545PG ,1,,0,0 %,0,,Taxable,False
+SO-000505,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,faith alive,,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,6/23/2017 9:40:11 AM,payment made into access bank. find attached,,6/23/2017 1:01:33 PM,6/23/2017 12:00:00 AM,6/23/2017 5:54:38 PM,146484.36,6/23/2017 12:00:00 AM,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"DS-III (NO.3) STANDARD A,B& C BTLS ","Btls, LOT:20161229 , EXP: 2018-12-29",2,btl,73242.18,0 %,146484.36,,Taxable,False
+SO-000562,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,faith alive,,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/3/2017 1:40:18 PM,,,7/3/2017 1:58:42 PM,7/3/2017 12:00:00 AM,,0,7/3/2017 12:00:00 AM,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,APHERESIS MCS TROLLEY  ,"HEMONETICS TROLLEY, UNIT ",1,pcs.,0,0 %,0,,Taxable,False
+SO-000562,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,faith alive,,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/3/2017 1:40:18 PM,,,7/3/2017 1:58:42 PM,7/3/2017 12:00:00 AM,,0,7/3/2017 12:00:00 AM,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ","500ml, LOT:16426C17, EXP:2018-11",2,,0,0 %,0,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"REFERENCE FILING SOLUTION,  ",DS- REF FILLING SOLUTION 10ML 07/03/2019,2,btl,29000,5 %,55100,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"REFERENCE  ELECTRODE,P C ","REFERENCE  ELECTRODE,P C  86J171003, 86I171105 ",2,,166000,5 %,315400,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00 06/04/2019",4,btl,73242.18,5 %,278320.28,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"CLEANING SOLUTION, BTL ",CLEANING SOLUTION 250 ML 31/10/2018,2,pcs.,46875,5 %,89062.5,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"DEPROTEIN SOLUTION, PKS ",DEPROTEIN SOLUTION 15/03/2019,2,pcs.,57617.18,5 %,109472.64,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"CO2   STANDARD, ",DS-V CO2 STANDARD 50ML,3,btl,29296,5 %,83493.6,,Taxable,False
+SO-001365,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Christian Isichei ,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/24/2018 11:40:28 AM,"TERMS 
+Currency: NAIRA 
+Offer: DAP Jos
+Order confirmation: confirmed PO
+Delivery: within 3 days of order confirmation
+Offer validity: 30 days.
+Payment: 100% payments before delivery. ",,2/24/2018 11:57:04 AM,2/26/2018 12:00:00 AM,2/27/2018 2:05:35 PM,946286.52,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,Andrew Alaefule,,"LABJENIKS PRINTER PAPER, ",THERMAL PRINTER PAPER 80*35 MM,4,pcs.,4062.5,5 %,15437.5,,Taxable,False
+SO-001423,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,PASCHALE,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,3/13/2018 3:03:08 PM,,,3/13/2018 3:08:36 PM,3/13/2018 12:00:00 AM,4/9/2018 2:15:25 PM,498000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,ENGR SOLOMON,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","LABJENIKS Q-LYTE 60  : K+, Na+, Cl-, Ca+, PH,TC02,Ref.REPAIRED S/N:20170104",1,,0,0 %,0,,Taxable,False
+SO-001423,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,PASCHALE,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,3/13/2018 3:03:08 PM,,,3/13/2018 3:08:36 PM,3/13/2018 12:00:00 AM,4/9/2018 2:15:25 PM,498000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,ENGR SOLOMON,,"PH ELECTRODE, P  C ",PH ELECTRODE.,1,,166000,0 %,166000,,Taxable,False
+SO-001423,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,PASCHALE,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,3/13/2018 3:03:08 PM,,,3/13/2018 3:08:36 PM,3/13/2018 12:00:00 AM,4/9/2018 2:15:25 PM,498000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,ENGR SOLOMON,,"CHLORIDE  ELECTRODE, P C ",p c,1,,166000,0 %,166000,,Taxable,False
+SO-001423,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,PASCHALE,8036121984,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,3/13/2018 3:03:08 PM,,,3/13/2018 3:08:36 PM,3/13/2018 12:00:00 AM,4/9/2018 2:15:25 PM,498000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,PAID,ENGR SOLOMON,,"CALCIUM  ELECTRODE,   P C ",  p c,1,,166000,0 %,166000,,Taxable,False
+QTN-000676,Quote,Quote,FAITH ALIVE CLINIC JOS,DR SAMUEL,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/2/2018 4:13:15 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"PIPETTE, 10-100 µL ","B10000-1F
+ Capp pipette, fixed vol. 10 ml, Bravo=1000 ml
+ pipetters
+",1,,103950,0 %,103950,,Taxable,False
+QTN-000676,Quote,Quote,FAITH ALIVE CLINIC JOS,DR SAMUEL,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/2/2018 4:13:15 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,Adjustable 0-2 0ul pipette,"Adjustable pipetters Capp Maestro single  channel, 500-5000ul=for 30, 20, and 10 microml",1,,251212.5,0 %,251212.5,,Taxable,False
+QTN-000676,Quote,Quote,FAITH ALIVE CLINIC JOS,DR SAMUEL,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/2/2018 4:13:15 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,PIPETTE CONTROLLER,"CappTempo
+ pipette controller, 0.1-100mL, Blue
+",1,,185400,0 %,185400,,Taxable,False
+QTN-000676,Quote,Quote,FAITH ALIVE CLINIC JOS,DR SAMUEL,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/2/2018 4:13:15 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"Serological pipette 100mL,","Serological pipette 100mL,
+ pink,50 pcs",1,,102400,0 %,102400,,Taxable,False
+QTN-000676,Quote,Quote,FAITH ALIVE CLINIC JOS,DR SAMUEL,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/2/2018 4:13:15 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,, PIPETTE TIPS ,YELLOW AND BLUE,1,packs,54000,0 %,54000,,Taxable,False
+SO-001945,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/20/2018 3:01:54 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,7/20/2018 3:14:32 PM,,7/20/2018 3:30:46 PM,500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"BOSCH SPECTROPHOTOMER,","SPECTROPHOTOMETER, SP-2000, 340-1000NM.
+Country: USA
+S/N: KJ1E16102815",1,,500000,0 %,500000,,Taxable,False
+SO-001945,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/20/2018 3:01:54 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,7/20/2018 3:14:32 PM,,7/20/2018 3:30:46 PM,500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"250 ML SINGLE PEDIATRIC BLOOD BAGS, 250 ML ","250 ML SINGLE PEDIATRIC BLOOD BAGS, DP10106, 250 ML",2,pouch,0,0 %,0,,Taxable,False
+SO-001945,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/20/2018 3:01:54 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,7/20/2018 3:14:32 PM,,7/20/2018 3:30:46 PM,500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"VACUTAINER ECLIPSE NEEDLE 21G, 21G ","VACUTAINER ECLIPE NEEDLE 21G, 368609, ",1,,0,0 %,0,,Taxable,False
+SO-001945,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,7/20/2018 3:01:54 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,7/20/2018 3:14:32 PM,,7/20/2018 3:30:46 PM,500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,VACUTAINER HOLDER,"VACUTAINER HOLDER, 364815, 250PCS/PK",1,packs,0,0 %,0,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"REFERENCE FILING SOLUTION,  ",DS- REF FILLING SOLUTION 10ML. 2019/03/07,1,btl,29000,0 %,29000,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00. 2019/08/28, 2019/09/04",3,btl,73242,0 %,219726,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"CLEANING SOLUTION, BTL ",CLEANING SOLUTION 250 ML. 2019/08/24,1,pcs.,46875,0 %,46875,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"DEPROTEIN SOLUTION, PKS ",DEPROTEIN SOLUTION. 2019/03,1,pcs.,57617,0 %,57617,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"CO2   STANDARD, ",DS-V CO2 STANDARD 50ML. 2019/08/28,2,btl,29296,0 %,58592,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"PVC ELECTRODE ACTIVATING  SOLUTION, PC",PCV ACTIVATING SOLUTION 50 ML. 2019/04/06,1,btl,33000,0 %,33000,,Taxable,False
+SO-002156,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/5/2018 3:44:25 PM,"TERMS
+Currency: NGN
+Offer: DAP Jos
+Order confirmation: confirmed PO.
+Delivery: within 4 days of PO receipt
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,9/5/2018 3:51:02 PM,9/5/2018 12:00:00 AM,9/5/2018 6:49:27 PM,448872.5,9/5/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW,,"LABJENIKS PRINTER PAPER, ",THERMAL PRINTER PAPER 80*35 MM,1,pcs.,4062.5,0 %,4062.5,,Taxable,False
+QTN-000761,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,USD,0.0023,,8/10/2018 12:03:18 PM,"Terms:
+Currency: USD
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment immediately after installation 
+Warranty duration: 12months 
+Offer validity: 60 days.
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,ANAESTHETIST MACHINE,"Make: Mindray
+Model: Wato EX-20, with 2 vaporizers(ISO FLOURINE AND HALOTHANE)
+Screen: Color LCD Screen
+Pipeline Gas Supply: O2 /O2+O2/ O2/N2O/ O2+ Air.
+",1,,13698,0 %,13698,,Taxable,False
+QTN-000761,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,USD,0.0023,,8/10/2018 12:03:18 PM,"Terms:
+Currency: USD
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment immediately after installation 
+Warranty duration: 12months 
+Offer validity: 60 days.
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,Theatre Bed,"TECHARTMED OPERATING TABLE
+MODEL: MT600
+Introduction
+MT 600 is widely used in multiple surgery disciplines..
+Table design are adopted Europeanism precise appearance.Matte surface premium 304 stainless steel are anti-corrosion and anti-rust.Central controlled large castors enables free wheeling without noise.
+",1,,6575.34,0 %,6575.34,,Taxable,False
+QTN-000761,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,USD,0.0023,,8/10/2018 12:03:18 PM,"Terms:
+Currency: USD
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment immediately after installation 
+Warranty duration: 12months 
+Offer validity: 60 days.
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"VERTICAL STEAM STERILZER, NC 90M ","VERTICAL STEAM STERILIZER, NC 90M, 90 L",1,,15714,0 %,15714,,Taxable,False
+QTN-000762,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,USD,0.0023,,8/10/2018 12:24:33 PM,"Terms:
+Currency: USD
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment immediately after installation 
+Warranty duration: 12months 
+Offer validity: 60 days
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,ANAESTHETIST MACHINE,"Make: Mindray
+Model: Wato EX-20, with 2 vaporizers(ISO FLOURINE AND HALOTHANE)
+Screen: Color LCD Screen
+Pipeline Gas Supply: O2 /O2+O2/ O2/N2O/ O2+ Air.
+",1,,13698,0 %,13698,,Taxable,False
+QTN-000762,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,USD,0.0023,,8/10/2018 12:24:33 PM,"Terms:
+Currency: USD
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment immediately after installation 
+Warranty duration: 12months 
+Offer validity: 60 days
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,Theatre Bed,"TECHARTMED OPERATING TABLE
+MODEL: MT600
+Introduction
+MT 600 is widely used in multiple surgery disciplines..
+Table design are adopted Europeanism precise appearance.Matte surface premium 304 stainless steel are anti-corrosion and anti-rust.Central controlled large castors enables free wheeling without noise.
+",1,,6575.34,0 %,6575.34,,Taxable,False
+QTN-000762,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,USD,0.0023,,8/10/2018 12:24:33 PM,"Terms:
+Currency: USD
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment immediately after installation 
+Warranty duration: 12months 
+Offer validity: 60 days
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,AUTOCLAVE 50L UTKBS-50LV,"Make: MRCLab 
+Stainless steel, digital and mobile. 
+LCD screen indicate working state 
+Temp, scope 50-126°C 
+Time scope 0-99h. Overpressure auto-discharging 0.145-0.165MPa 
+Country of manufacture: Israel 
+Operation: Digital 
+Capacity: 50L
+",1,pcs.,4520.28,0 %,4520.28,,Taxable,False
+SO-002171,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/10/2018 2:05:12 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,9/10/2018 2:06:23 PM,,9/13/2018 10:20:47 AM,450000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,,,"BOSCH SPECTROPHOTOMER,","SPECTROPHOTOMETER, SP-2000, 340-1000NM.
+Country: USA
+S/N: KJ1E16102816",1,,450000,0 %,450000,,Taxable,False
+SO-002198,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,9/17/2018 8:47:20 AM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,9/17/2018 8:47:33 AM,,9/17/2018 9:23:00 AM,3000000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","Make: Labjeniks
+Model: Q-LYTE 60
+Parameters: K+, Na+, CI, Ca+, Li+, pH, TCO2
+Type: ISE
+S/N:1370411180170 & 1370411180169
+Country of Manuf: USA
+",2,,1500000,0 %,3000000,,Taxable,False
+SO-002314,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,10/11/2018 3:48:00 PM,,4000,10/12/2018 11:30:00 AM,10/12/2018 11:30:00 AM,11/5/2018 9:51:52 AM,223726,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00, 2019-09-04, lot:20170905",3,btl,73242,0 %,219726,,Taxable,False
+SO-002230,Fulfilled,Paid,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,10/17/2018 8:26:48 AM,,4000,10/18/2018 1:07:39 PM,,11/5/2018 9:52:35 AM,223726,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00, 2019-09-04, lot:20170905",3,btl,73242,0 %,219726,,Taxable,False
+SO-002466,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/13/2018 9:07:04 AM,,,11/13/2018 9:15:36 AM,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00, 2019-08-29, 20170829",2,btl,73242,0 %,146484,,Taxable,False
+SO-002466,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/13/2018 9:07:04 AM,,,11/13/2018 9:15:36 AM,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DEPROTEIN SOLUTION, PKS ",DEPROTEIN SOLUTION,1,pcs.,57617.18,0 %,57617.18,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00m exp:2019-09-04, lot:20170905",7,btl,73242,0 %,512694,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DEPROTEIN SOLUTION, PKS ","DEPROTEIN SOLUTION, exp:2019-08-17, lot:20170818",2,pcs.,57617.18,0 %,115234.36,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"LABJENIKS PRINTER PAPER, ",THERMAL PRINTER PAPER 80*35 MM,7,pcs.,4062.5,0 %,28437.5,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CO2   STANDARD, ","DS-V CO2 STANDARD 50ML, 2019-04-05, 20170406",3,btl,29296,0 %,87888,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CLEANING SOLUTION, BTL ","CLEANING SOLUTION 250 ML, 2019-09-19, 20170920",1,pcs.,46875,0 %,46875,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"QC ELECTROLYTE SOLUTION, BTLS ","QC SOLUTION 50 ML, 2019-05-19, 20170520",1,btl,29296.25,0 %,29296.25,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","LABJENIKS Q-LYTE 60  : K+, Na+, Cl-, Ca+, PH,TC02,Ref. S/N:1370917180184",1,,1500000,0 %,1500000,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","LABJENIKS Q-LYTE 60  : K+, Na+, Cl-, Ca+, PH,TC02,Ref.S/N: 0370112170091",1,,1500000,0 %,1500000,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00m exp:2019-09-04, lot:20170905",1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CLEANING SOLUTION, BTL ",CLEANING SOLUTION 250 ML,1,pcs.,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"ISE FILLING SOLUTION, BTL ",DS-ISE FILLING SOLUTION 10 ML,1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"PVC ELECTRODE ACTIVATING  SOLUTION, PC",PCV ACTIVATING SOLUTION 50 ML,1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CO2   STANDARD, ",DS-V CO2 STANDARD 50ML,1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"C STANDARD, BTL ",DS-C STANDARD C 400ML ,1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"REFERENCE FILING SOLUTION,  ",DS- REF FILLING SOLUTION 10ML,1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"PH ELECTRODE, P  C ",PH ELECTRODE.,1,,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CALCIUM  ELECTRODE,   P C "," CALCIUM ELECTRODE, S/N: 84L171149",1,,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CHLORIDE  ELECTRODE, P C ",p c,1,,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,Peristatic roller pump tube for labjeniks,PUMP TUBE,6,,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,REAGENT TUBE ,Reagent tube P01.09.100063-00(10M),1,,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"LABJENIKS PRINTER PAPER, ",THERMAL PRINTER PAPER 80*35 MM,1,pcs.,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"QC ELECTROLYTE SOLUTION, BTLS ",QC SOLUTION 50 ML,1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","LABJENIKS Q-LYTE 60  : K+, Na+, Cl-, Ca+, PH,TC02,Ref.",-1,,1500000,0 %,-1500000,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00",-1,btl,73242,0 %,-73242,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CLEANING SOLUTION, BTL ",CLEANING SOLUTION 250 ML,-1,pcs.,46875,0 %,-46875,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"PVC ELECTRODE ACTIVATING  SOLUTION, PC",PCV ACTIVATING SOLUTION 50 ML,-1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"CO2   STANDARD, ",DS-V CO2 STANDARD 50ML,-1,btl,29296,0 %,-29296,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"C STANDARD, BTL ",DS-C STANDARD C 400ML ,-1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"REFERENCE FILING SOLUTION,  ",DS- REF FILLING SOLUTION 10ML,-1,btl,0,0 %,0,,Taxable,False
+SO-002506,Started,Owing,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,11/22/2018 1:09:06 PM,,,11/22/2018 1:20:37 PM,,11/27/2018 11:06:12 AM,2320425.11,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"QC ELECTROLYTE SOLUTION, BTLS ",QC SOLUTION 50 ML,-1,btl,29296.25,0 %,-29296.25,,Taxable,False
+QTN-001043,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,12/11/2018 2:03:03 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,,,"MEDICA SOLUTIONS PACK, NA/K/CL/CA/LI, 800ML","MEDICA SOLUTIONS PACK, NA/K/CL/CA/LI, 800ML",2,,176000,0 %,352000,,Taxable,False
+QTN-001043,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,12/11/2018 2:03:03 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,,,MEDICA POTTASSIUM ELECTRODE,"POTTASSIUM ELECTRODE, ",1,,131200,0 %,131200,,Taxable,False
+QTN-001043,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,12/11/2018 2:03:03 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,,,MEDICA REFERENCE ELECTRODE,"REFERENCE ELECTRODE, ",1,,104000,0 %,104000,,Taxable,False
+QTN-001043,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,12/11/2018 2:03:03 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,,,DAILY CLEANING SOLUTION,DAILY CLEANING SOLUTION,1,,39168,0 %,39168,,Taxable,False
+QTN-001043,Quote,Quote,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,12/11/2018 2:03:03 PM,"Terms:
+Currency: Naira 
+Offer: DAP Faith Alive Clinic Jos
+Delivery: Within 30 days of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,,,TRI LEVEL QC KIT,TRI LEVEL CONTROL,1,,50592,0 %,50592,,Taxable,False
+SO-002716,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/10/2019 4:20:15 PM,,,1/10/2019 4:24:03 PM,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW ALAEFULE,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00,  lot:20170406   exp:2019-04-06",3,btl,73242,0 %,219726,,Taxable,False
+SO-002716,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/10/2019 4:20:15 PM,,,1/10/2019 4:24:03 PM,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW ALAEFULE,,"LABJENIKS PRINTER PAPER, ","THERMAL PRINTER PAPER 80*35 MM,  ",4,pcs.,4062.5,0 %,16250,,Taxable,False
+SO-002716,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/10/2019 4:20:15 PM,,,1/10/2019 4:24:03 PM,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW ALAEFULE,,"DEPROTEIN SOLUTION, PKS ","DEPROTEIN SOLUTION,  lot:20170316   exp:2019-03-15",2,pcs.,57617.18,0 %,115234.36,,Taxable,False
+SO-002716,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/10/2019 4:20:15 PM,,,1/10/2019 4:24:03 PM,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW ALAEFULE,,"CO2   STANDARD, ","DS-V CO2 STANDARD 50ML,  lot:20180202,  exp:2020-02-01",1,btl,29296,0 %,29296,,Taxable,False
+SO-002716,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,Prof Christian Isichei,8037234846,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/10/2019 4:20:15 PM,,,1/10/2019 4:24:03 PM,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,UNPAID,MR ANDREW ALAEFULE,,"PVC ELECTRODE ACTIVATING  SOLUTION, PC","PCV ACTIVATING SOLUTION 50 ML,   lot:20170329   exp:2019-03-28",1,btl,33000,0 %,33000,,Taxable,False
+SO-002782,Fulfilled,Partial,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/19/2019 9:54:37 AM,,,1/22/2019 12:00:00 AM,1/22/2019 12:00:00 AM,1/22/2019 1:10:23 PM,408968.72,1/22/2019 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,ABRAHAM IGWE,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00. 2020/10/10, 20181011. 2020/05/18",4,btl,73242.18,0 %,292968.72,,Taxable,False
+SO-002782,Fulfilled,Partial,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/19/2019 9:54:37 AM,,,1/22/2019 12:00:00 AM,1/22/2019 12:00:00 AM,1/22/2019 1:10:23 PM,408968.72,1/22/2019 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,ABRAHAM IGWE,,"CLEANING SOLUTION, BTL ",CLEANING SOLUTION 250 ML. 2019/04/06,4,pcs.,46875,0 %,187500,,Taxable,False
+SO-002782,Fulfilled,Partial,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/19/2019 9:54:37 AM,,,1/22/2019 12:00:00 AM,1/22/2019 12:00:00 AM,1/22/2019 1:10:23 PM,408968.72,1/22/2019 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,ABRAHAM IGWE,,"QC ELECTROLYTE SOLUTION, BTLS ",QC SOLUTION 50 ML. 2019/03/09,1,btl,29296.25,0 %,29296.25,,Taxable,False
+SO-002782,Fulfilled,Partial,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/19/2019 9:54:37 AM,,,1/22/2019 12:00:00 AM,1/22/2019 12:00:00 AM,1/22/2019 1:10:23 PM,408968.72,1/22/2019 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,ABRAHAM IGWE,,REAGENT TUBE ,Reagent tube P01.09.100063-00(10M),1,,0,0 %,0,,Taxable,False
+QTN-001158,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,2348098493720,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,1/23/2019 9:34:05 AM,"Terms:
+Currency: Naira 
+Offer: DPP Jos
+Delivery: Within 7 days of confirmed payment.
+Payment: 100% in advance
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,"BACTALERT  Clinical 3D60,","VC BacT Clinical 3D60, with complete accessories 4700003",1,,6500000,0 %,6500000,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,EBG PH SENSOR,6201,2,,115290,0 %,230580,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,EBG reagent module,6101-0000,2,,89934.4,0 %,179868.8,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,PCO2 SENSOR,6202,2,,115290,0 %,230580,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,EBG/ES/EEL REFERENCE SENSOR,6204,2,,66099.6,0 %,132199.2,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,"EASYQC BG/E QUALITY CONTROL, LEVEL 1",6303,2,,19215,0 %,38430,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,EBG/ES PO2 SENSOR,6203,2,,115290,0 %,230580,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,"EASYQC BG/E QUALITY CONTROL, LEVEL 2",6304,2,,19215,0 %,38430,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,"EASYQC BG/E QUALITY CONTROL, LEVEL 3",6305,2,,19215,0 %,38430,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,EBG PUMP TUBE,6504,2,,11759.58,0 %,23519.16,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,MEDICA PRINTER PAPER,MEDICA PRINTER PAPER 2541,2,,8070.3,0 %,16140.6,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,PROBE WIPERS,7302,2,,32926.82,0 %,65853.64,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,CL- ELECTRODE,2113,2,,73017,0 %,146034,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,CALCIUM ELECTRODE,"CALCIUM ELECTRODE, ",2,,78397.2,0 %,156794.4,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,"BI-LEVEL QC KIT, MEDICA",2814,2,,23519.16,0 %,47038.32,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,ES/EEL NA SENSOR,7205,2,,70557.48,0 %,141114.96,,Taxable,False
+QTN-001217,Quote,Quote,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/8/2019 10:07:34 AM,"Offer valid for 90 days
+Deliver: DPP
+Payment Terms:60% payment before supply",,,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,ABRAHAM IGWE,,ES/EEL K SENSOR,7206,2,,70557.48,0 %,141114.96,,Taxable,False
+SO-002931,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/19/2019 1:08:06 PM,,2500,2/19/2019 3:27:09 PM,,,0,,,Chinaza Onoh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,unpaid,IGWE ABRAHAM,,"DS-III (NO.3) STANDARD A,B& C BTLS ","DS-III STANDARD A,B,C P14.03.105045-00, EXP:2020/10/10, LOT: 20181011",2,btl,73242.18,0 %,146484.36,,Taxable,False
+SO-002931,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/19/2019 1:08:06 PM,,2500,2/19/2019 3:27:09 PM,,,0,,,Chinaza Onoh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,unpaid,IGWE ABRAHAM,,"QC ELECTROLYTE SOLUTION, BTLS ","QC SOLUTION 50 ML, EXP: 2019/05/19, LOT; 20170520,",2,btl,29296.25,0 %,58592.5,,Taxable,False
+SO-002931,Fulfilled,Invoiced,FAITH ALIVE CLINIC JOS,KIZITO,8069633628,,Faith Alive,Jos,,,Nigeria,,,,faith alive jos,jos,,,,,,NGN,1,,2/19/2019 1:08:06 PM,,2500,2/19/2019 3:27:09 PM,,,0,,,Chinaza Onoh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,unpaid,IGWE ABRAHAM,,"PVC ELECTRODE ACTIVATING  SOLUTION, PC","PCV ACTIVATING SOLUTION 50 ML, EXP: 2019/04/06, LOT; 20170407, EXP; 2020/05/14, LOT; 20180515",2,btl,33000,0 %,66000,,Taxable,False

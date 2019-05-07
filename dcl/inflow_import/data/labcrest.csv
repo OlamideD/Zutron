@@ -1,0 +1,300 @@
+OrderNumber,InventoryStatus,PaymentStatus,Customer,ContactName,Phone,Email,BillingAddress1,BillingAddress2,BillingCity,BillingState,BillingCountry,BillingPostalCode,BillingAddressRemarks,ShipToCompanyName,ShippingAddress1,ShippingAddress2,ShippingCity,ShippingState,ShippingCountry,ShippingPostalCode,ShippingAddressRemarks,CurrencyCode,ExchangeRate,NonCustomerCost,OrderDate,OrderRemarks,Freight,InvoicedDate,DueDate,DatePaid,AmountPaid,RequestedShipDate,PONumber,SalesRep,Location,PricingScheme,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,Sales Type,Sales Person,LPO Date,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 FULLY AUTOMATED HEMATOLOGY ANALYSER, (Stocked Product)","MYTHIC 18 ANALYSER, M18OT,  19 PARAMETERS, 3 PART DIFF.,S/N:100617-009828",1,,1800000,0 %,1800000,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"VEDA LAB EASY READER POINT OF CARE, ","VEDA LAB EASY READER POINT OF CARE UNIT. 36200, S/N:ERP01001984",1,,700000,0 %,700000,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,HORMONAL ASSAY ELISA READER,"HORMONAL ASSAY ELISA READER, CHROMATE, ELISA MICROPLATE READER,S/N:4300-1078",1,,620000,0 %,620000,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 DILUENT  20L, 20 L ","Mythic 18 Diluent  20L, HM18-009-20, 20 L",1,,0,0 %,0,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1",1,btl,0,0 %,0,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, HM18-008-05",1,btl,0,0 %,0,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC FLUSH-CLEANER 0.25L, 0.25 L ","Mythic 18-22 Flush-Cleaner 0.25L, HM18-011-025, ",1,btl,0,0 %,0,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"FSH CHECK-1,   PK ",  PK,18,packs,0,0 %,0,,Taxable,False
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,HORMONAL ASSAY ELISA READER,"HORMONAL ASSAY ELISA READER, CHROMATE, ELISA MICROPLATE READER,S/N:4300-1078",-1,,620000,0 %,-620000,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,CA 15-3 CHECK,"CA 15-3 CHECK 68093, 2019-04",1,,42000,0 %,42000,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CRP CHECK-1, PK  ","PK ,2018-06, 2018-06",1,packs,23356.25,0 %,23356.25,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CK MB, PK  ","pk ,2018-06",1,packs,41200,0 %,41200,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"T4 CHECK-1, PK  ","TOTAL T4, QUANTITATIVE DEVICE, S/P, 2018-12",1,packs,21360,0 %,21360,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,L-CHECK - 1,"LH QUANTITATIVE DEVICE, S/P/WB, 5093, 2018-06",1,packs,26640,0 %,26640,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,TSH CHECK-1,"TSH QUANTITATIVE DEVICE, S/P/WB, 28093, 2018-12",1,packs,37680,0 %,37680,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"D DIMER CHECK,PK ","   pk,2018-06",1,packs,52800,0 %,52800,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,PSA Check 1,"PSA CHCK-1 TEST  8091, 2019-04",20,pcs.,2140,0 %,42800,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"PROLAC CHECK-1,   PK ","  PROLACTIN QUANTITATIVE DEVICE, S/P/WB, 9093.2018-12",1,packs,41280,0 %,41280,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TROPONIN I CHECK-1, PK ","TROPONIN QUQANTITATIVE, S/P/WB, 21093, 2018-06",1,packs,62160,0 %,62160,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"B-HCG,  PK "," PK, 2018-12",1,packs,18000,0 %,18000,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"T3 CHECK-1,  PK  ","TOTAL T3 QUANTITATIVE DEVICE, S/P, 73093, 2018-12",1,packs,22560,0 %,22560,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"AFP,   PK ","  pk, 2018-06",1,packs,32160,0 %,32160,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CEA ,   PK ","CEA CHECK, 45093 LOT NO:271006-04, EXP:2018-06",1,packs,32160,0 %,32160,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,FERRITIN CHECK,"FERRETIN CHECK 25093 LOT:22087-28, EXP:2019-04",1,,32160,0 %,32160,,Taxable,False
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,CA 15-3 CHECK,CA 15-3 CHECK 68093,-1,,42000,0 %,-42000,,Taxable,False
+SO-000954,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 12:06:58 PM,"
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)",,10/31/2017 12:13:16 PM,10/31/2017 12:13:16 PM,11/11/2017 3:24:49 PM,40320,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CORTISOL, PK ",pk  EXP:2018-06,1,packs,40320,0 %,40320,,Taxable,False
+SO-000986,Fulfilled,Paid,Labcrest Ltd,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/8/2017 10:27:19 AM,"
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+
+Surplus N113,363.75",,11/8/2017 10:31:00 AM,11/8/2017 10:31:00 AM,11/23/2017 5:22:53 PM,82320,11/8/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,NORMAL,DURU CHINWE,,"CORTISOL, PK ",pk EXP DATE:2018/6,1,packs,40320,0 %,40320,,Taxable,False
+SO-000986,Fulfilled,Paid,Labcrest Ltd,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/8/2017 10:27:19 AM,"
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+
+Surplus N113,363.75",,11/8/2017 10:31:00 AM,11/8/2017 10:31:00 AM,11/23/2017 5:22:53 PM,82320,11/8/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,NORMAL,DURU CHINWE,,"CA 125,  PK ","CA-125, 74093 EXP DATE:2018/6",1,packs,42000,0 %,42000,,Taxable,False
+SO-001039,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/22/2017 9:33:54 AM,,,11/22/2017 9:41:25 AM,11/22/2017 1:39:00 PM,3/9/2018 4:14:47 PM,1000000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,APDIA ELISA READER (TOUCH),"APDIA ELISA READER, 11000,
+
+Make: APDIA
+Model: AD Touch Reader. 
+Country of Manufacture: Belgium
+ELISA Reader - AD Touch Reader - Micro Plate Analyser
+s/n: RT0200217APD",1,,1000000,0 %,1000000,,Taxable,False
+SO-001248,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,1/23/2018 4:13:43 PM,,,1/24/2018 9:31:35 AM,1/24/2018 12:00:00 AM,5/10/2018 11:15:43 AM,44200,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,True,True,unpaid,Duru Chinwendu,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1, LOT NO; 1615400004, EXP; 2018-07, lot:705-13, exp:2018-11",1,btl,44200,0 %,44200,,Taxable,False
+SO-001388,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,3/1/2018 9:21:15 AM,,,3/1/2018 9:24:18 AM,,5/10/2018 11:16:32 AM,42800,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,Unpaid,chinwendu,,PSA Check 1,PSA CHCK-1 TEST  8091,20,pcs.,2140,0 %,42800,,Taxable,False
+SO-001395,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,3/5/2018 10:44:44 AM,,,3/5/2018 4:35:22 PM,3/5/2018 12:00:00 AM,5/10/2018 11:17:09 AM,42000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,MRS VIVIAN OPARA,,CA 15-3 CHECK,CA 15-3 CHECK 68093,1,,42000,0 %,42000,,Taxable,False
+SO-001410,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,3/9/2018 10:25:44 AM,,,3/9/2018 10:41:36 AM,,10/31/2018 3:37:24 PM,21090,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,Unpaid,Duru Chinwendu,,"FSH CHECK-1,   PK ","FSH CHECK-1, 11091, exp:2019-07",1,pcs.,21090,0 %,21090,,Taxable,False
+SO-001502,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,4/3/2018 11:25:29 AM,,,4/4/2018 9:50:31 AM,4/4/2018 12:00:00 AM,7/30/2018 4:47:00 PM,46768,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,BRIDGET CHIWENDU,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1, LOT NO; 705-13, EXP; 2018-11",1,btl,34000,0 %,34000,,Taxable,False
+SO-001502,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,4/3/2018 11:25:29 AM,,,4/4/2018 9:50:31 AM,4/4/2018 12:00:00 AM,7/30/2018 4:47:00 PM,46768,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,BRIDGET CHIWENDU,,"CORTISOL, PK ",pk EXP DATE:2018/6,1,packs,31920,60 %,12768,,Taxable,False
+SO-001572,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,4/16/2018 3:10:28 PM,,,4/16/2018 3:19:28 PM,4/16/2018 12:00:00 AM,10/31/2018 2:44:47 PM,41280,4/16/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,Unpaid,Duru Chinwendu,,"PROLAC CHECK-1,   PK ","  PROLACTIN QUANTITATIVE DEVICE, S/P/WB, 9093, Exp: 2019/07, Lot: 29117-08",20,pcs.,2064,0 %,41280,,Taxable,False
+SO-001653,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,5/10/2018 10:15:30 AM,,,5/10/2018 10:17:47 AM,,5/15/2018 11:35:41 AM,26640,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,L-CHECK - 1,"LH QUANTITATIVE DEVICE, S/P/WB, 5093, 2019-07, lot:29117-18",1,packs,26640,0 %,26640,,Taxable,False
+SO-001714,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,5/30/2018 11:35:30 AM,,,5/30/2018 11:40:50 AM,,10/31/2018 2:43:44 PM,84000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,"MYTHIC 18 DILUENT 10 L, 10 L ","MYTH, 2018-11",1,,48000,0 %,48000,,Taxable,False
+SO-001714,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,5/30/2018 11:35:30 AM,,,5/30/2018 11:40:50 AM,,10/31/2018 2:43:44 PM,84000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1, LOT NO; 705-13, EXP; 2018-11",1,btl,36000,0 %,36000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,MIC 4 REAL TIME PCR MACHINE,"MAKE: MBI
+Model: MIC QPCR 2PLEX
+Parameters include: Viral load, infectious disease, Ebola..etc. and research
+Reagents: This instrument is open to any PCR regents.
+Country of manuf: Canada.
+",1,,6800000,0 %,6800000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,Biosan Vortex Mixer,"Model: V-1plus
+High speed/rpm
+make: Biosan",1,,196000,0 %,196000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,BIOSAFETY CABINET,"Make: Biobase
+Model: BIOBASE BBXX
+Class: II. UV lamp: inclusive
+Remote control: Inclusive
+Country manuf: China
+",1,,2900000,0 %,2900000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,DNA/RNA Extrac tion Centrifuge,"Make: Biosan
+Model: Microspin 12
+Country: Latvia
+",1,,780000,0 %,780000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,MUPID GEL ELECTROPHORESIS SYSTEM ,"Make: Optima
+Model: Mupid exU
+Country of Manufacture: Japan
+",1,pcs.,680000,0 %,680000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,Nucleic Acids extraction system,Model: Magcore Compact ,1,,9800000,0 %,9800000,,Taxable,False
+QTN-000660,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,6/15/2018 3:21:33 PM,"Terms:
+Currency: Naira 
+Offer: DDP Nigeria
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within 8 weeks of your LPO receipt.
+Payments: 100% payment within 7days of supply.
+Offer validity: 60 days. 
+Warranty duration: 12months ",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,Gel Documentation system for PCR ,"Make: Syngene
+Model: NuGenius+
+Country of Manufacturer: UK
+",1,,3320000,0 %,3320000,,Taxable,False
+SO-001892,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,7/7/2018 1:10:59 PM,,,7/7/2018 1:15:18 PM,,10/31/2018 3:41:00 PM,23356.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Chinwendu Duru,,"CRP CHECK-1, PK  ","CRP CHECK-1, 34093-3L, 2019-07",1,packs,23356.25,0 %,23356.25,,Taxable,False
+SO-001920,Fulfilled,Paid,Labcrest Ltd,,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,7/16/2018 11:43:14 AM,,,7/16/2018 11:59:58 AM,7/16/2018 12:00:00 AM,2/15/2019 2:52:44 PM,730000,7/16/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,DURU CHINWENDU,,FINE CARE PLUS METER,"Make:  Fincare
+Model: Fine Care Plus Meter
+Sample: Wholeblood/Serum/Plasma/Urine
+",1,,730000,0 %,730000,,Taxable,False
+SO-001920,Fulfilled,Paid,Labcrest Ltd,,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,7/16/2018 11:43:14 AM,,,7/16/2018 11:59:58 AM,7/16/2018 12:00:00 AM,2/15/2019 2:52:44 PM,730000,7/16/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,DURU CHINWENDU,,HBAIC KIT,"Whole blood, 25 pcs/pk",1,,0,0 %,0,,Taxable,False
+SO-002049,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,8/11/2018 11:01:32 AM,,,9/3/2018 3:50:49 PM,9/3/2018 3:50:53 PM,10/31/2018 3:39:03 PM,21090,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,CHINWENDU,,"FSH CHECK-1,   PK ","FSH CHECK-1, 11091, Exp: 019/07, Lot:29117-10",1,packs,21090,0 %,21090,,Taxable,False
+SO-002158,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/5/2018 4:59:35 PM,,,9/5/2018 5:00:19 PM,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,BLANK DEVICE,BLANK DEVICE,1,,0,0 %,0,,Taxable,False
+SO-002163,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/6/2018 2:27:19 PM,,,9/6/2018 2:33:43 PM,9/6/2018 12:00:00 AM,2/15/2019 2:51:21 PM,103000,9/6/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,DURU CHINWE,,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, exp. date:2020/03",1,btl,67000,0 %,67000,,Taxable,False
+SO-002163,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/6/2018 2:27:19 PM,,,9/6/2018 2:33:43 PM,9/6/2018 12:00:00 AM,2/15/2019 2:51:21 PM,103000,9/6/2018 12:00:00 AM,,Chinenye Amobi,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,DURU CHINWE,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1, LOT NO; 705-13,2019/06 (ENZYMATIC CLEANSER  )",1,btl,36000,0 %,36000,,Taxable,False
+QTN-000849,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:38:06 PM,"TERMS
+Currency: NGN
+Offer: DDP Abuja
+Order confirmation: confirmed PO.
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,R-BIOPHARM ALLERGY TESTING MACHINE,"Brand: R-Biopharm AG, 
+Country of Manf: Germany
+Features
+-Allergen panels with up to 20 allergens for effective screening
+-Real standard curve on each strip (calibrated against the international reference preparation).
+",1,,620000,0 %,620000,,Taxable,False
+QTN-000849,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:38:06 PM,"TERMS
+Currency: NGN
+Offer: DDP Abuja
+Order confirmation: confirmed PO.
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,HBV 5 PANEL,STRIP/SERUM/PLASMA,1,,15000,0 %,15000,,Taxable,False
+QTN-000849,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:38:06 PM,"TERMS
+Currency: NGN
+Offer: DDP Abuja
+Order confirmation: confirmed PO.
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,HBSAG KIT,"STRIP/ SERUM/PLAMA, HEPATITIS B VIRUS KIT(3.0MM)",1,,8000,0 %,8000,,Taxable,False
+QTN-000849,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:38:06 PM,"TERMS
+Currency: NGN
+Offer: DDP Abuja
+Order confirmation: confirmed PO.
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,SYPHILIS KIT,"STRIP/SERU/PLASMA, VDRL kit(3.0MM)",1,,8000,0 %,8000,,Taxable,False
+QTN-000849,Quote,Quote,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:38:06 PM,"TERMS
+Currency: NGN
+Offer: DDP Abuja
+Order confirmation: confirmed PO.
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,Andrew Alaefule,,HCV KIT,"STRIP/SERUM/PLASMA, HCV KIT(3.0MM)",1,,9000,0 %,9000,,Taxable,False
+SO-002185,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:56:07 PM,,,9/14/2018 11:28:18 AM,,10/31/2018 2:41:28 PM,620000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,CHINWENDU,,"RIDA QLINE ORBITAL SHAKER,   UNIT ","RIDA qLINE ORBITAL SHAKER (with accessories), ZG 2601, S/N: 60388-10-0230",1,,620000,0 %,620000,,Taxable,False
+SO-002185,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/13/2018 2:56:07 PM,,,9/14/2018 11:28:18 AM,,10/31/2018 2:41:28 PM,620000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,CHINWENDU,,EPSON SCAN PHOTO PRINTER FOR R-BIOPHARAM,"EPSON SCAN PHOTO, S/N: LU4W048473",1,,0,0 %,0,,Taxable,False
+SO-002202,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,9/17/2018 11:32:58 AM,,,9/17/2018 12:15:52 PM,,,0,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,,,,RIDA qLine Allergy Panel 2 Kit,"RIDA qLine Allergy Panel 2 Kit, A6242, 13228, 2020-02",1,packs,0,0 %,0,,Taxable,False
+SO-002282,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/6/2018 10:45:00 AM,,1500,10/6/2018 12:10:00 PM,,11/1/2018 5:10:55 PM,670500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,"CA 125,  PK ","CA-125, 74093 , 2019-07, LOT:29117-09",2,packs,42000,0 %,84000,,Taxable,False
+SO-002282,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/6/2018 10:45:00 AM,,1500,10/6/2018 12:10:00 PM,,11/1/2018 5:10:55 PM,670500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,,Duru Chinwendu,,"APDIA SHAKER,","APDIA SHAKER, 12000, S/N:SH0030917APD",1,,585000,0 %,585000,,Taxable,False
+SO-002642,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,12/18/2018 5:00:50 PM,,,12/18/2018 5:10:07 PM,,2/15/2019 2:53:34 PM,36000,,,Chinaza Onoh,,Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,UNPAID,BRIDGET DURU,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1, LOT NO; 805-27, 2020/05 (ENZYMATIC CLEANSER  )",1,btl,36000,0 %,36000,,Taxable,False
+SO-002826,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,1/30/2019 11:16:41 AM,,,1/30/2019 11:35:34 AM,,2/15/2019 2:54:13 PM,65790,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,unpaid,Duru Chinwendu,,CA 19-9 CHECK,CA 19-9 CHECK 69093,1,,33630,0 %,33630,,Taxable,False
+SO-002826,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,1/30/2019 11:16:41 AM,,,1/30/2019 11:35:34 AM,,2/15/2019 2:54:13 PM,65790,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,False,True,unpaid,Duru Chinwendu,,"INSULIN CHECK-1,   "," INSULIN QUANTITATIVE DEVICE, S/P/WB. 12093.",1,packs,32160,0 %,32160,,Taxable,False
+SO-002911,Fulfilled,Invoiced,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,2/15/2019 10:54:25 AM,,,2/15/2019 11:01:46 AM,,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,False,True,UNPAID,Duru Chinwendu,,"MYTHIC 18 DILUENT 10 L, 10 L ",MYTHic 18 diluent 10L  LOT 705-13  EXP 2019-06,1,,59564,0 %,59564,,Taxable,False

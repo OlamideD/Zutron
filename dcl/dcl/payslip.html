@@ -1,0 +1,99 @@
+<style>
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+    h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+        h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+</style>
+
+
+<div class="row">
+    <div class="col-xs-9">
+
+
+        <div class="row">
+            <div class="col-xs-7">
+                <h1><b>PAYSLIP</b></h1>
+
+            </div>
+            <div class="col-xs-5"><p>
+                <b>Pay Day</b><br>
+                {{ doc.end_date }}</p>
+            </div>
+        </div>
+          <div class="row">
+            <div class="col-xs-7">
+                <p>
+                {{ doc.employee_name }}</p>
+
+            </div>
+            <div class="col-xs-5">
+                <p>
+                <b>Pay Period</b><br>
+                {{ doc.start_date }} to {{ doc.end_date }}</p>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="col-xs-3"><p>
+DCL Laboratory Products<br>
+Ltd.<br>
+Secant Tower<br>
+7th Lane 3RD FLR East<br>
+Wing<br>
+OSU RE GREATER ACCRA<br>
+P.O BOX CT10854<br>
+CANTONMENT<br>
+ACCRA, GHANA<br>
+BANKER:<br>
+ECOBANK, OXFORD ST.<br>
+OSU BRANCH<br>
+A/C No: 0264482402401<br>
+<b>VAT</b><br>
+C0003086224</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-8">
+        <table class="table">
+            <tr><td><h3>Earnings</h3></td><td align="right"><h3>Amount GHS</h3></td></tr>
+        {% for item in doc.earnings %}
+            <tr><td>{{ item.salary_component }}</td><td align="right">{{ item.amount }}</td></tr>
+        {% endfor %}
+            <tr><td><b>Total Earnings</b></td><td align="right">{{ doc.gross_pay }}</td></tr>
+            </table>
+        </div>
+    </div>
+
+<div class="row">
+    <div class="col-xs-8">
+        <table class="table">
+            <tr><td><h3>Deductions</h3></td><td align="right"><h3>Amount GHS</h3></td></tr>
+        {% for item in doc.deductions %}
+            <tr><td>{{ item.salary_component }}</td><td align="right">{{ item.amount }}</td></tr>
+        {% endfor %}
+            </table>
+        </div>
+    </div>
+
+
+<div class="row">
+    <div class="col-xs-8">
+        <table class="table">
+            <tr><td><h3>Take Home Pay</h3></td><td align="right"><h3>{{ doc.get_formatted("net_pay", doc) }}</h3></td></tr>
+            </table>
+        </div>
+    </div>
+
+
+
+

@@ -1,0 +1,1140 @@
+OrderNumber,InventoryStatus,PaymentStatus,Customer,ContactName,Phone,Email,BillingAddress1,BillingAddress2,BillingCity,BillingState,BillingCountry,BillingPostalCode,BillingAddressRemarks,ShipToCompanyName,ShippingAddress1,ShippingAddress2,ShippingCity,ShippingState,ShippingCountry,ShippingPostalCode,ShippingAddressRemarks,CurrencyCode,ExchangeRate,NonCustomerCost,OrderDate,OrderRemarks,Freight,InvoicedDate,DueDate,DatePaid,AmountPaid,RequestedShipDate,PONumber,SalesRep,Location,PricingScheme,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,Sales Type,Sales Person,LPO Date,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"QC ELECTROLYTE SOLUTION, BTLS ",QC SOLUTION 50 ML,4,btl,28252.3,0 %,113009.2,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"ISE CALIBRATOR, 2 X (6X20ML) ","ISE Calibrator, ISCA-0250, 2 x (6x20ml)",5,,77064.9,0 %,385324.5,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"TOTAL PROTEIN PLUS, 4X250   ML ",4X250   ML PROB-0700,2,,13754.07,0 %,27508.14,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,TOTAL PROTEIN PLUS 12X20ML VTL ,TOTAL PROTEIN PLUS 12X20ML VTL,2,,13754.07,0 %,27508.14,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"TRIGL MONO SL, 6 X 45 ML ","TRIGL MONO SL, TGML 0455, 6 x 45 ml ",10,,18044.73,0 %,180447.3,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"URIC ACID MONO SL, 12X20ML","URIC ACID MONO SL, AUML-0250, 12x20ml",6,,19634.67,0 %,117808.02,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"UREA UV SL, 4 X 55 ML ",URSL 0455,14,,15420.24,0 %,215883.36,,Taxable,False,
+SO-000919,Fulfilled,Invoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:24:30 AM,,,3/27/2018 4:06:11 PM,4/6/2018 4:06:11 PM,,0,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,lpo  SUPPLY,,,"SAMPLE CUPS, 2 ML ","SAMPLE CUPS, 3062-021",1,packs,77064.9,0 %,77064.9,,Taxable,False,
+SO-000920,Fulfilled,Invoiced,KINGS CARE HOSPITAL,MRS BUMI,8058293270,,"Plot 2181, Ibb Way, Zone 4 Abuja",WUSE ZONE 4,WUSE,ABUJA,NIGERIA,,,,"Plot 2181, Ibb Way, Zone 4 Abuja",WUSE ZONE 4,WUSE,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:34:59 AM,,,10/17/2017 9:36:26 AM,10/17/2017 9:36:26 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1",1,btl,43750,0 %,43750,,Taxable,False,
+SO-000920,Fulfilled,Invoiced,KINGS CARE HOSPITAL,MRS BUMI,8058293270,,"Plot 2181, Ibb Way, Zone 4 Abuja",WUSE ZONE 4,WUSE,ABUJA,NIGERIA,,,,"Plot 2181, Ibb Way, Zone 4 Abuja",WUSE ZONE 4,WUSE,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 9:34:59 AM,,,10/17/2017 9:36:26 AM,10/17/2017 9:36:26 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, HM18-008-05",1,btl,43750,0 %,43750,,Taxable,False,
+SO-000921,Fulfilled,Paid,MEDIC WEST AFRICA EXHIBITION,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/17/2017 1:31:51 PM,Please find attached evidence of payment.,,10/17/2017 1:47:05 PM,10/17/2017 1:47:05 PM,10/19/2017 2:19:06 PM,793500,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,MEDIC WEST AFRICA EXHIBITION,,,BIOBASE BLOOD BANK REFRIGERATOR,',1,unit,675000,0 %,675000,,Taxable,False,
+SO-000921,Fulfilled,Paid,MEDIC WEST AFRICA EXHIBITION,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/17/2017 1:31:51 PM,Please find attached evidence of payment.,,10/17/2017 1:47:05 PM,10/17/2017 1:47:05 PM,10/19/2017 2:19:06 PM,793500,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,MEDIC WEST AFRICA EXHIBITION,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,20,pcs.,800,0 %,16000,,Taxable,False,
+SO-000921,Fulfilled,Paid,MEDIC WEST AFRICA EXHIBITION,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/17/2017 1:31:51 PM,Please find attached evidence of payment.,,10/17/2017 1:47:05 PM,10/17/2017 1:47:05 PM,10/19/2017 2:19:06 PM,793500,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,MEDIC WEST AFRICA EXHIBITION,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,20,pcs.,800,0 %,16000,,Taxable,False,
+SO-000921,Fulfilled,Paid,MEDIC WEST AFRICA EXHIBITION,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/17/2017 1:31:51 PM,Please find attached evidence of payment.,,10/17/2017 1:47:05 PM,10/17/2017 1:47:05 PM,10/19/2017 2:19:06 PM,793500,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,MEDIC WEST AFRICA EXHIBITION,,,HIV/ HBsAG | HCV COMBO CASSETTE TEST,25 TEST,1,pcs.,25000,0 %,25000,,Taxable,False,
+SO-000921,Fulfilled,Paid,MEDIC WEST AFRICA EXHIBITION,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/17/2017 1:31:51 PM,Please find attached evidence of payment.,,10/17/2017 1:47:05 PM,10/17/2017 1:47:05 PM,10/19/2017 2:19:06 PM,793500,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,MEDIC WEST AFRICA EXHIBITION,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,40,pcs.,800,0 %,32000,,Taxable,False,
+SO-000921,Fulfilled,Paid,MEDIC WEST AFRICA EXHIBITION,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/17/2017 1:31:51 PM,Please find attached evidence of payment.,,10/17/2017 1:47:05 PM,10/17/2017 1:47:05 PM,10/19/2017 2:19:06 PM,793500,10/17/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,MEDIC WEST AFRICA EXHIBITION,,,"ENZYM TEMPERATURE RECORDER, PC   .. ",TEMPERATURE RECORDER,1,,29500,0 %,29500,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 FULLY AUTOMATED HEMATOLOGY ANALYSER, (Stocked Product)","MYTHIC 18 ANALYSER, M18OT,  19 PARAMETERS, 3 PART DIFF.,S/N:100617-009828",1,,1800000,0 %,1800000,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"VEDA LAB EASY READER POINT OF CARE, ","VEDA LAB EASY READER POINT OF CARE UNIT. 36200, S/N:ERP01001984",1,,700000,0 %,700000,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,HORMONAL ASSAY ELISA READER,"HORMONAL ASSAY ELISA READER, CHROMATE, ELISA MICROPLATE READER,S/N:4300-1078",1,,620000,0 %,620000,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 DILUENT  20L, 20 L ","Mythic 18 Diluent  20L, HM18-009-20, 20 L",1,,0,0 %,0,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1",1,btl,0,0 %,0,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, HM18-008-05",1,btl,0,0 %,0,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MYTHIC FLUSH-CLEANER 0.25L, 0.25 L ","Mythic 18-22 Flush-Cleaner 0.25L, HM18-011-025, ",1,btl,0,0 %,0,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"FSH CHECK-1,   PK ",  PK,18,packs,0,0 %,0,,Taxable,False,
+SO-000922,Fulfilled,Paid,Labcrest Ltd,MR SOJI BILLYROSE,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/17/2017 3:27:52 PM,"                            PAYMENT TERMS
+
+ NGN1,500,000.00 ADVANCED PRE-PAYMENT FOR ORDER CONFIRMATION.
+ BALANCE TO BE MADE IN THREE EQUAL INSTALLMENTS WITHIN THE NEXT THREE MONTHS AS STATED BELOW:
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 30th OF NOVEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF DECEMBER, 2017
+
+         - NGN540,000.00 TO BE PAID ON/BEFORE THE 31st OF JANUARY, 2018
+
+N/B: THESE INSTRUMENTS REMAINS THE PROPERTY OF DCL LABORATORY PRODUCTS LTD, UNTIL THE PAYMENT IS PAID IN FULL.",,10/17/2017 3:30:51 PM,10/17/2017 3:30:51 PM,11/11/2017 3:22:11 PM,2500000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,HORMONAL ASSAY ELISA READER,"HORMONAL ASSAY ELISA READER, CHROMATE, ELISA MICROPLATE READER,S/N:4300-1078",-1,,620000,0 %,-620000,,Taxable,False,
+SO-000923,Fulfilled,Paid,ABUJA CENTRAL MEDICAL STORES,MR JOHN,8053438226,,Billing Address,JABI,,,NIGERIA,,,,Billing Address,JABI,,,NIGERIA,,,NGN,1,,10/17/2017 4:29:18 PM,,,10/17/2017 4:31:21 PM,10/17/2017 4:31:21 PM,6/1/2018 11:32:55 AM,2420000,,LAB/699/17,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Cash,No Tax,0,0,False,,,True,True,LPO SUPPLY,,20/9/2017,PEADIATRIC VAC NEEDLE,,275,,8800,0 %,2420000,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,CA 15-3 CHECK,"CA 15-3 CHECK 68093, 2019-04",1,,42000,0 %,42000,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CRP CHECK-1, PK  ","PK ,2018-06, 2018-06",1,packs,23356.25,0 %,23356.25,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CK MB, PK  ","pk ,2018-06",1,packs,41200,0 %,41200,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"T4 CHECK-1, PK  ","TOTAL T4, QUANTITATIVE DEVICE, S/P, 2018-12",1,packs,21360,0 %,21360,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,L-CHECK - 1,"LH QUANTITATIVE DEVICE, S/P/WB, 5093, 2018-06",1,packs,26640,0 %,26640,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,TSH CHECK-1,"TSH QUANTITATIVE DEVICE, S/P/WB, 28093, 2018-12",1,packs,37680,0 %,37680,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"D DIMER CHECK,PK ","   pk,2018-06",1,packs,52800,0 %,52800,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,PSA Check 1,"PSA CHCK-1 TEST  8091, 2019-04",20,pcs.,2140,0 %,42800,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"PROLAC CHECK-1,   PK ","  PROLACTIN QUANTITATIVE DEVICE, S/P/WB, 9093.2018-12",1,packs,41280,0 %,41280,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TROPONIN I CHECK-1, PK ","TROPONIN QUQANTITATIVE, S/P/WB, 21093, 2018-06",1,packs,62160,0 %,62160,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"B-HCG,  PK "," PK, 2018-12",1,packs,18000,0 %,18000,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"T3 CHECK-1,  PK  ","TOTAL T3 QUANTITATIVE DEVICE, S/P, 73093, 2018-12",1,packs,22560,0 %,22560,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"AFP,   PK ","  pk, 2018-06",1,packs,32160,0 %,32160,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CEA ,   PK ","CEA CHECK, 45093 LOT NO:271006-04, EXP:2018-06",1,packs,32160,0 %,32160,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,FERRITIN CHECK,"FERRETIN CHECK 25093 LOT:22087-28, EXP:2019-04",1,,32160,0 %,32160,,Taxable,False,
+SO-000924,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/18/2017 9:28:56 AM,,,10/18/2017 9:40:09 AM,10/18/2017 9:40:09 AM,5/10/2018 11:09:36 AM,486316.25,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,CA 15-3 CHECK,CA 15-3 CHECK 68093,-1,,42000,0 %,-42000,,Taxable,False,
+SO-000925,Fulfilled,Paid,OLADIMEJI EMMANUEL OLUFEMI,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/18/2017 2:15:30 PM,,,10/18/2017 2:22:50 PM,10/18/2017 2:22:50 PM,11/7/2017 7:45:52 PM,3400000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,BIOBASE BLOOD BANK REFRIGERATOR,',1,unit,850000,0 %,850000,,Taxable,False,
+SO-000925,Fulfilled,Paid,OLADIMEJI EMMANUEL OLUFEMI,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/18/2017 2:15:30 PM,,,10/18/2017 2:22:50 PM,10/18/2017 2:22:50 PM,11/7/2017 7:45:52 PM,3400000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"MICROS LCD MICROSCOPE, MCX100","LCD MICROSCOPE, MCX 100",1,,1600000,0 %,1600000,,Taxable,False,
+SO-000925,Fulfilled,Paid,OLADIMEJI EMMANUEL OLUFEMI,,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,10/18/2017 2:15:30 PM,,,10/18/2017 2:22:50 PM,10/18/2017 2:22:50 PM,11/7/2017 7:45:52 PM,3400000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"HAWKSLY HEMATICRITE CENTRIFUGE, UNIT ",HEMATOCRITE CENTRIFUGE.,1,,950000,0 %,950000,,Taxable,False,
+SO-000926,Fulfilled,Paid,MEMFYS HOSPITAL,Scientist Clovis,8038849954,,"Plot 13, Trans-Ekulu Pocket Layout,Km 2 Enugu-Onitsha Expressway",,ENUGU,ENUGU,NIGERIA,,,,"Plot 13, Trans-Ekulu Pocket Layout,Km 2 Enugu-Onitsha Expressway",,ENUGU,ENUGU,NIGERIA,,,NGN,1,,10/18/2017 4:14:18 PM,"TERMS
+Currency: NGN. 
+DAP: Enugu, Nigeria. 
+Offer validity: 90days.  
+Order confirmation: confirmed PO plus 
+Payments: 100% advance payment.
+Delivery: within 14days of order confirmation 
+",,10/18/2017 4:16:16 PM,10/18/2017 4:16:16 PM,11/22/2017 3:30:11 PM,415200,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"LABTECH DEIONIZER, PC ",AVISHKAR LABTECH DEIONIZER,1,,415200,0 %,415200,,Taxable,False,
+SO-000927,Fulfilled,Paid,MR EDEM A. BASSEY,,8036752086,,"ANATOMY DEPT,HISTOLOGY LAB UNIVERSITY OF UYO",,AKWA IBOM,< Type to add .. >,Nigeria,,,,"ANATOMY DEPT,HISTOLOGY LAB UNIVERSITY OF UYO",,AKWA IBOM,< Type to add .. >,Nigeria,,,NGN,1,,10/18/2017 3:24:40 PM,,,10/25/2017 3:32:13 PM,10/25/2017 3:32:13 PM,7/18/2018 2:15:06 PM,262500,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,NORMAL,,,"DCM DIGITAL EYEPIECE, DCM 800 ",DCM 800,1,,262500,0 %,262500,,Taxable,False,
+SO-000928,Fulfilled,Paid,OLIVE & CEDAR,,8185583121,,,,Abuja,FCT,Nigeria,,,,,,Abuja,FCT,Nigeria,,,NGN,1,,10/19/2017 8:38:15 AM,paid cash into bank,,10/19/2017 9:49:21 AM,10/19/2017 9:49:21 AM,10/19/2017 2:20:48 PM,16000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,20,pcs.,800,0 %,16000,,Taxable,False,
+SO-000929,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/19/2017 3:53:05 PM,Paid to ibtc,,10/19/2017 3:54:46 PM,10/19/2017 3:54:46 PM,10/20/2017 12:24:54 PM,256000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,2,kits,128000,0 %,256000,,Taxable,False,
+SO-000929,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/19/2017 3:53:05 PM,Paid to ibtc,,10/19/2017 3:54:46 PM,10/19/2017 3:54:46 PM,10/20/2017 12:24:54 PM,256000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,2,,0,0 %,0,,Taxable,False,
+SO-000930,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/20/2017 11:17:00 AM,,,10/20/2017 11:21:52 AM,10/20/2017 11:21:52 AM,10/20/2017 3:03:51 PM,128000,10/20/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,1,kits,128000,0 %,128000,,Taxable,False,
+SO-000930,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/20/2017 11:17:00 AM,,,10/20/2017 11:21:52 AM,10/20/2017 11:21:52 AM,10/20/2017 3:03:51 PM,128000,10/20/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,1,,0,0 %,0,,Taxable,False,
+SO-000931,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/20/2017 12:31:37 PM,,,10/20/2017 12:33:20 PM,10/20/2017 12:33:20 PM,10/20/2017 3:04:29 PM,128000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ","225 ML, 2019-03",1,kits,128000,0 %,128000,,Taxable,False,
+SO-000931,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/20/2017 12:31:37 PM,,,10/20/2017 12:33:20 PM,10/20/2017 12:33:20 PM,10/20/2017 3:04:29 PM,128000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ","500ml, 2018, 2018-11",1,,0,0 %,0,,Taxable,False,
+SO-000932,Fulfilled,Paid,VECAD HOSPITAL,DR OBI,8108313166,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,NGN,1,,10/21/2017 12:28:03 PM,,,10/21/2017 12:29:30 PM,10/21/2017 12:29:30 PM,10/26/2017 3:48:55 PM,72125.01,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,TSH CHECK-1,"TSH QUANTITATIVE DEVICE, S/P/WB, 28093, EXP:2018-12",1,packs,27021.88,0 %,27021.88,,Taxable,False,
+SO-000932,Fulfilled,Paid,VECAD HOSPITAL,DR OBI,8108313166,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,NGN,1,,10/21/2017 12:28:03 PM,,,10/21/2017 12:29:30 PM,10/21/2017 12:29:30 PM,10/26/2017 3:48:55 PM,72125.01,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"PROLAC CHECK-1,   PK ","  PROLACTIN QUANTITATIVE DEVICE, S/P/WB, 9093.EXP:2018-12",1,packs,27412.5,0 %,27412.5,,Taxable,False,
+SO-000932,Fulfilled,Paid,VECAD HOSPITAL,DR OBI,8108313166,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,NGN,1,,10/21/2017 12:28:03 PM,,,10/21/2017 12:29:30 PM,10/21/2017 12:29:30 PM,10/26/2017 3:48:55 PM,72125.01,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,L-CHECK - 1,"LH QUANTITATIVE DEVICE, S/P/WB, 5093,exp:2018-12",1,packs,17690.63,0 %,17690.63,,Taxable,False,
+SO-000933,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,Dr Chuma C. I'Aronu,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,10/23/2017 10:29:48 AM,"TERMS
+Currency: NGN. 
+DAP: Enugu, Nigeria. 
+Offer validity: 90days.  
+Order confirmation: confirmed PO plus 
+Payments: 100% advance payment.
+Delivery: within 7days of order confirmation 
+Installation/user training: free with start up reagent
+",,10/23/2017 10:59:26 AM,10/23/2017 10:59:26 AM,10/26/2017 2:47:35 PM,1030271.88,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"VEDA LAB EASY READER POINT OF CARE, ",VEDA LAB EASY READER POINT OF CARE UNIT. 36200,1,,962000,0 %,962000,,Taxable,False,
+SO-000933,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,Dr Chuma C. I'Aronu,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,10/23/2017 10:29:48 AM,"TERMS
+Currency: NGN. 
+DAP: Enugu, Nigeria. 
+Offer validity: 90days.  
+Order confirmation: confirmed PO plus 
+Payments: 100% advance payment.
+Delivery: within 7days of order confirmation 
+Installation/user training: free with start up reagent
+",,10/23/2017 10:59:26 AM,10/23/2017 10:59:26 AM,10/26/2017 2:47:35 PM,1030271.88,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"PROLAC CHECK-1,   PK ","  PROLACTIN QUANTITATIVE DEVICE, S/P/WB, 9093.",1,packs,0,0 %,0,,Taxable,False,
+SO-000933,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,Dr Chuma C. I'Aronu,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,10/23/2017 10:29:48 AM,"TERMS
+Currency: NGN. 
+DAP: Enugu, Nigeria. 
+Offer validity: 90days.  
+Order confirmation: confirmed PO plus 
+Payments: 100% advance payment.
+Delivery: within 7days of order confirmation 
+Installation/user training: free with start up reagent
+",,10/23/2017 10:59:26 AM,10/23/2017 10:59:26 AM,10/26/2017 2:47:35 PM,1030271.88,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,CA 15-3 CHECK,CA 15-3 CHECK 68093,1,,31209.38,0 %,31209.38,,Taxable,False,
+SO-000933,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,Dr Chuma C. I'Aronu,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,10/23/2017 10:29:48 AM,"TERMS
+Currency: NGN. 
+DAP: Enugu, Nigeria. 
+Offer validity: 90days.  
+Order confirmation: confirmed PO plus 
+Payments: 100% advance payment.
+Delivery: within 7days of order confirmation 
+Installation/user training: free with start up reagent
+",,10/23/2017 10:59:26 AM,10/23/2017 10:59:26 AM,10/26/2017 2:47:35 PM,1030271.88,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"D DIMER CHECK,PK ","D-DIMER CHECK, 72093",1,packs,37062.5,0 %,37062.5,,Taxable,False,
+SO-000934,Fulfilled,Paid,BD ABUJA,,,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/23/2017 10:48:09 AM,,,10/23/2017 10:55:06 AM,10/23/2017 10:55:06 AM,10/26/2017 3:45:34 PM,17500,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,HANDGLOVES (LIGHTLY POWDERED),LIGHTLY POWDERED DISPOSABLE EXAMINATION GLOVES,1,packs,2500,0 %,2500,,Taxable,False,
+SO-000934,Fulfilled,Paid,BD ABUJA,,,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/23/2017 10:48:09 AM,,,10/23/2017 10:55:06 AM,10/23/2017 10:55:06 AM,10/26/2017 3:45:34 PM,17500,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"LASSANY PIPETTE, 10-100UL ",10-100ul,1,,15000,0 %,15000,,Taxable,False,
+SO-000935,Fulfilled,Paid,ROUZ HOSPITAL AND MATERNITY,MR ROUZ,8098363159,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,NGN,1,,10/23/2017 12:45:36 PM,"
+
+NB ; PAID FOR # 1013 + # 935",,10/23/2017 12:52:11 PM,10/23/2017 12:52:11 PM,1/30/2018 1:24:42 PM,95090.65,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,TSH CHECK-1,"TSH QUANTITATIVE DEVICE, S/P/WB, 28093, EXP:2018-12",1,packs,27021.88,0 %,27021.88,,Taxable,False,
+SO-000935,Fulfilled,Paid,ROUZ HOSPITAL AND MATERNITY,MR ROUZ,8098363159,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,NGN,1,,10/23/2017 12:45:36 PM,"
+
+NB ; PAID FOR # 1013 + # 935",,10/23/2017 12:52:11 PM,10/23/2017 12:52:11 PM,1/30/2018 1:24:42 PM,95090.65,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"T3 CHECK-1,  PK  ","TOTAL T3 QUANTITATIVE DEVICE, S/P, EXP:2018-03",1,packs,16503.13,0 %,16503.13,,Taxable,False,
+SO-000935,Fulfilled,Paid,ROUZ HOSPITAL AND MATERNITY,MR ROUZ,8098363159,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,NGN,1,,10/23/2017 12:45:36 PM,"
+
+NB ; PAID FOR # 1013 + # 935",,10/23/2017 12:52:11 PM,10/23/2017 12:52:11 PM,1/30/2018 1:24:42 PM,95090.65,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"T4 CHECK-1, PK  ","TOTAL T4, QUANTITATIVE DEVICE, S/P, EXP:2018-04",1,packs,16184.38,0 %,16184.38,,Taxable,False,
+SO-000935,Fulfilled,Paid,ROUZ HOSPITAL AND MATERNITY,MR ROUZ,8098363159,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,NGN,1,,10/23/2017 12:45:36 PM,"
+
+NB ; PAID FOR # 1013 + # 935",,10/23/2017 12:52:11 PM,10/23/2017 12:52:11 PM,1/30/2018 1:24:42 PM,95090.65,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"FSH CHECK-1,   PK ","FSH CHECK-1, 11091, EXP:2018-12",20,packs,884.5315,0 %,17690.63,,Taxable,False,
+SO-000935,Fulfilled,Paid,ROUZ HOSPITAL AND MATERNITY,MR ROUZ,8098363159,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,,"PLOT 557, ZONE D, 2ND GATE, APO QUARTERS",,APO,ABUJA,NIGERIA,,,NGN,1,,10/23/2017 12:45:36 PM,"
+
+NB ; PAID FOR # 1013 + # 935",,10/23/2017 12:52:11 PM,10/23/2017 12:52:11 PM,1/30/2018 1:24:42 PM,95090.65,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,L-CHECK - 1,"LH QUANTITATIVE DEVICE, S/P/WB, 5093, EXP:2018-12",1,packs,17690.63,0 %,17690.63,,Taxable,False,
+SO-000936,Fulfilled,Paid,NISA PREMIER HOSPITAL,MR EMMAUEL,2348064195634,info@nisa.com.ng,"15-17 Alex Ekwueme Street, Jabi,Abuja, ","Alex Ekwueme Street, Jabi.",JABI,ABUJA,NIGERIA,,,,"15-17 Alex Ekwueme Street, Jabi,Abuja, ","Alex Ekwueme Street, Jabi.",JABI,ABUJA,NIGERIA,,,USD,0.0023,,10/23/2017 1:03:52 PM,,,11/3/2017 11:58:07 AM,,3/6/2018 9:38:39 AM,15202.08,,,Vivian Opara,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,,,No Tax,0,0,False,,,True,True,,,,SUREPLEX DNA AMPLIFICATION SYSTEM ,50 RXN-,6,,2980.8,15 %,15202.08,,Taxable,False,
+SO-000937,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:39:34 PM,,,10/23/2017 3:42:48 PM,10/23/2017 3:42:48 PM,3/5/2018 1:53:06 PM,350471.02,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"TRIGL MONO SL, 6 X 45 ML ","TRIGL MONO SL, TGML 0455, 6 x 45 ml , exp:2018-05",1,,22524.85,0 %,22524.85,,Taxable,False,
+SO-000937,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:39:34 PM,,,10/23/2017 3:42:48 PM,10/23/2017 3:42:48 PM,3/5/2018 1:53:06 PM,350471.02,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"HDL CHOLESTEROL DIRECT 2G SL, 1 X 80 ML ","HDL Cholesterol Direct 2G SL, HDLL-0380, 1 x 80 ml, exp:2018-12",1,,40851.56,0 %,40851.56,,Taxable,False,
+SO-000937,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:39:34 PM,,,10/23/2017 3:42:48 PM,10/23/2017 3:42:48 PM,3/5/2018 1:53:06 PM,350471.02,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ALBUMIN, 12X20 ML ","Albumin, ALBU 0250, 12x20 ml, 201-12",1,,19751.73,0 %,19751.73,,Taxable,False,
+SO-000937,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:39:34 PM,,,10/23/2017 3:42:48 PM,10/23/2017 3:42:48 PM,3/5/2018 1:53:06 PM,350471.02,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,REFERENCE ELECTRODE,"REFERENCE ELECTRODE, 3918-002, exp:2019-02",1,,133671,0 %,133671,,Taxable,False,
+SO-000937,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:39:34 PM,,,10/23/2017 3:42:48 PM,10/23/2017 3:42:48 PM,3/5/2018 1:53:06 PM,350471.02,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,POTASSIUM ELECTRODE,"POTASSIUM ELECTRODE, 3918-005, exp;2018-12",1,,133671.88,0 %,133671.88,,Taxable,False,
+SO-000938,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:46:21 PM,"
+
+
+NB : PAID N 1616,031.25 for # 1124 & # 938.",,10/23/2017 3:48:47 PM,10/23/2017 3:48:47 PM,1/10/2018 3:36:26 PM,81562.5,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"CALIBRATOR 1, 400ML ","400ml, exp:2018-08",1,btl,30468.75,0 %,30468.75,,Taxable,False,
+SO-000938,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:46:21 PM,"
+
+
+NB : PAID N 1616,031.25 for # 1124 & # 938.",,10/23/2017 3:48:47 PM,10/23/2017 3:48:47 PM,1/10/2018 3:36:26 PM,81562.5,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"CALIBRATOR 2, 200ML ","200ml, exp:2018-09",1,btl,30468.75,0 %,30468.75,,Taxable,False,
+SO-000938,Fulfilled,Paid,ASI UKPO DIAGNOSTIC AND MEDICAL CENTRE,EMEM,"08034630276, 08099661665",emem@asidmc.com,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,,Mary Slessor Avenue,(Opposite College of Health Technology),Calabar,Cross River ,NIGERIA,,,NGN,1,,10/23/2017 3:46:21 PM,"
+
+
+NB : PAID N 1616,031.25 for # 1124 & # 938.",,10/23/2017 3:48:47 PM,10/23/2017 3:48:47 PM,1/10/2018 3:36:26 PM,81562.5,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"TCO2 REACTION SOLUTION, 480ML ","480ml, exp: 2018-06",1,btl,20625,0 %,20625,,Taxable,False,
+SO-000939,Fulfilled,Paid,DR NNACHI,DR NNAJI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,10/24/2017 9:30:46 AM,,,10/24/2017 9:36:58 AM,,10/26/2017 2:53:25 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,2,kits,128000,0 %,256000,,Taxable,False,
+SO-000939,Fulfilled,Paid,DR NNACHI,DR NNAJI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,10/24/2017 9:30:46 AM,,,10/24/2017 9:36:58 AM,,10/26/2017 2:53:25 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,2,,0,0 %,0,,Taxable,False,
+SO-000940,Fulfilled,Paid,FEDERAL MEDICAL CENTRE KATSINA,ALH. BALA,8035814160,fmckatsina@yahoo.com, Murtala Mohammed Way (Jibia Bypass), Murtala Mohammed Way (Jibia Bypass),KATSINA,KATSINA,NIGERIA,,,, Murtala Mohammed Way (Jibia Bypass), Murtala Mohammed Way (Jibia Bypass),KATSINA,KATSINA,NIGERIA,,,NGN,1,,10/24/2017 3:59:42 PM,"TERMS
+Currency: NGN
+Offer: DDP Katsina
+Order confirmation: confirmed PO.
+Payment: 100% payment in advance
+Offer validity: 28days.  
+",,10/24/2017 4:18:14 PM,10/24/2017 4:18:14 PM,1/3/2018 12:17:11 PM,921780,,FMCK/G.164/VOL.T,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24TH OF OCTOBER 2017,"APDIA HIV P24 KIT, 192 TESTS ","APDIA , 790001, HIV I& II P24 ELISA 192 Tests Kit, EXP DATE 2019/2",6,,153630,0 %,921780,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"CREATININE JAFFE, 2X 125 ML + STD","Creatinine Jaffe, CRCO-0600, 2x 125 ml",4,,10591.8,0 %,42367.2,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"UREA UV SL, 4 X 62,5 ML","Urea UV SL, URSL-0420, 4 x 62,5 ml, EXP DATE:2019/4",3,,14377.66,0 %,43132.98,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"ALT / GPT SL, 4 X 62,5   ML ","ALT / GPT SL, ALSL-0430, 4 x 62,5   ML EXP DATE:2018/8",3,,13480.48,0 %,40441.44,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"BILIRUBIN TOTAL 4+1, 2X 125 ML  ","Bilirubin Total 4+1 BITO-0600, 2x 125 ml EXP DATE:2018/10",3,,15426.41,0 %,46279.23,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"BILIRUBIN DIRECT 4+1 ,2X 125 ML ","Bilirubin Direct 4+1 BIDI-0600, 2x 125 ml EXP DATE:2018/10",3,packs,11026.25,0 %,33078.75,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"AST / GOT SL, 4 X 62,5 ML   ","AST / GOT SL, ASSL-0430, 4 x 62,5 ml EXP DATE:2018/8",2,,13480.48,0 %,26960.96,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"ALP (DEA) SL, 4X62,5 ML   ","ALP (DEA) SL, PASL-0420, 4x62,5 ml EXP DATE:2019/5",2,,13344.54,0 %,26689.08,,Taxable,False,
+SO-000941,Fulfilled,Paid,FMC KEFFI,DR NASARA,8035664268,,KEFFI ,,KEFFI,NASSARAWA,,,,,KEFFI ,,KEFFI,NASSARAWA,,,,NGN,1,,10/25/2017 9:32:01 AM,,,10/25/2017 9:47:31 AM,10/25/2017 9:47:31 AM,10/26/2017 3:57:43 PM,277749.64,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,CUVETTE ROTOR PC,"CUVETTE ROTOR, 3070-340",1,pcs.,18800,0 %,18800,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,"HIV-1 QUANTITATIVE, 50TESTS  (Stocked Product)",HIV-1 QUANTITATIVE 50 TESTS/PACK,2,,964600,0 %,1929200,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,"HCV QUANTITATIVE, 50TESTS ",HCV QUANTITATIVE 50TESTS/PACK,2,,964600,0 %,1929200,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,HIV-2 ,HIV-2 150 RXNTEST/PACK,1,,1929200,0 %,1929200,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,EXTRACTION TEST KIT,GENESIG EASY EXTRACTION KIT 50-DNA/RNA,5,,696000,0 %,3480000,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,MYCOBACTERIUM TUBERCULOSIS TEST KIT,MYCOBACTERIUM TUBERCULOSIS TEST KIT150 RXN,1,,964600,0 %,964600,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,"CALCIUM ARSENAZO, 2X 125 ML ","Calcium Arsenazo, CALA-0600, 2x 125 ml,2019/2  ",2,,35574.8,0 %,71149.6,,Taxable,False,
+SO-000942,Fulfilled,Paid,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/25/2017 11:53:35 AM,,,10/27/2017 1:10:17 PM,10/27/2017 1:10:17 PM,12/12/2017 5:16:26 PM,12232549.6,,4500047525,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,24/8/2017,"HBV QUANTITATIVE , 50TEST ",HBV QUANTITATIVE 50 TEST/PACK,2,,964600,0 %,1929200,,Taxable,False,
+SO-000943,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,10/26/2017 11:43:02 AM,,,10/26/2017 11:54:31 AM,,10/26/2017 3:11:07 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,2,kits,128000,0 %,256000,,Taxable,False,
+SO-000943,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,10/26/2017 11:43:02 AM,,,10/26/2017 11:54:31 AM,,10/26/2017 3:11:07 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,2,,0,0 %,0,,Taxable,False,
+SO-000944,Fulfilled,Paid,UNIVERSITY OF UYO MEDICAL CENTRE,MRS UDEME OKON,2348025784747,,UYO,UYO,,AKWA IBOM,NIGERIA,,,,UYO,UYO,,AKWA IBOM,NIGERIA,,,NGN,1,,10/26/2017 3:11:46 PM,please find attached documents,,10/9/2017 12:00:00 AM,10/9/2017 12:00:00 AM,5/19/2018 3:32:08 PM,184500,,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,Access Bank,No Tax,0,0,False,,,True,True,,,,Outstanding Invoices (Outstanding Payments),"supplied Mythic 18 (Dilluent, Lyse & Cleaning Sol.)",1,,184500,0 %,184500,,Taxable,False,
+SO-000945,Fulfilled,Paid,NEW EDGE DIAGNOSTIC CENTRE,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,NGN,1,,10/26/2017 3:10:27 PM,,,10/26/2017 3:21:07 PM,10/26/2017 3:21:07 PM,10/26/2017 3:54:03 PM,85314.67,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"ALKALINE PHOSPHATASE, 2X50ML ",2x50ml,1,packs,15972,0 %,15972,,Taxable,False,
+SO-000945,Fulfilled,Paid,NEW EDGE DIAGNOSTIC CENTRE,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,NGN,1,,10/26/2017 3:10:27 PM,,,10/26/2017 3:21:07 PM,10/26/2017 3:21:07 PM,10/26/2017 3:54:03 PM,85314.67,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"DIRECT BILIRUBIN, 4X100ML ",4x100ml,1,,15308.6,0 %,15308.6,,Taxable,False,
+SO-000945,Fulfilled,Paid,NEW EDGE DIAGNOSTIC CENTRE,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,NGN,1,,10/26/2017 3:10:27 PM,,,10/26/2017 3:21:07 PM,10/26/2017 3:21:07 PM,10/26/2017 3:54:03 PM,85314.67,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"CHOLESTEROL TOTAL SL WITH STANDARD, 2X100 ",CHOLESTEROL TOTAL SL with standard 2x100ml,1,packs,26530.63,0 %,26530.63,,Taxable,False,
+SO-000945,Fulfilled,Paid,NEW EDGE DIAGNOSTIC CENTRE,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,NGN,1,,10/26/2017 3:10:27 PM,,,10/26/2017 3:21:07 PM,10/26/2017 3:21:07 PM,10/26/2017 3:54:03 PM,85314.67,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"TRIGLYCERIDES, 2X100ML ",2x100ml,1,,19490.63,0 %,19490.63,,Taxable,False,
+SO-000945,Fulfilled,Paid,NEW EDGE DIAGNOSTIC CENTRE,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,NGN,1,,10/26/2017 3:10:27 PM,,,10/26/2017 3:21:07 PM,10/26/2017 3:21:07 PM,10/26/2017 3:54:03 PM,85314.67,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"HDL CHOLESTEROL, 2X100ML ",HDL Cholesterol,1,,8012.81,0 %,8012.81,,Taxable,False,
+SO-000946,Fulfilled,Paid,DR ATODO UNIVERSITY OF ABUJA TEACHING HOSPITAL ,DR ATODO,8066807061,,GWAGWALADA ,,Abuja,FCT,Nigeria,,,,GWAGWALADA ,,Abuja,FCT,Nigeria,,,NGN,1,,10/26/2017 4:09:20 PM,,,10/26/2017 4:12:07 PM,10/26/2017 4:12:07 PM,3/7/2018 2:09:46 PM,40000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,"BONE MARROW ASPIRATION NEEDLE, PCS ",pcs(15g),5,,8000,0 %,40000,,Taxable,False,
+SO-000947,Fulfilled,Paid,CEDARCREST HOSPITAL ABUJA,OBINNA,8066807061,info@cedarcresthospitals.com,"Plot 195 Apo Dutse Road Off Oladipo Diya Way, Gudu District, Abuja.","Gudu District, Abuja.",APO,ABUJA,NIGERIA,,,,"Plot 195 Apo Dutse Road Off Oladipo Diya Way, Gudu District, Abuja.","Gudu District, Abuja.",APO,ABUJA,NIGERIA,,,NGN,1,,10/27/2017 8:37:27 AM,,,10/27/2017 8:43:03 AM,,2/6/2018 11:53:14 AM,169000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"MYTHIC 18 DILUENT  20L, 20 L ","Mythic 18 Diluent  20L, HM18-009-20, 20 L, EXP:2018-12",1,,78000,0 %,78000,,Taxable,False,
+SO-000947,Fulfilled,Paid,CEDARCREST HOSPITAL ABUJA,OBINNA,8066807061,info@cedarcresthospitals.com,"Plot 195 Apo Dutse Road Off Oladipo Diya Way, Gudu District, Abuja.","Gudu District, Abuja.",APO,ABUJA,NIGERIA,,,,"Plot 195 Apo Dutse Road Off Oladipo Diya Way, Gudu District, Abuja.","Gudu District, Abuja.",APO,ABUJA,NIGERIA,,,NGN,1,,10/27/2017 8:37:27 AM,,,10/27/2017 8:43:03 AM,,2/6/2018 11:53:14 AM,169000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1, EXP:2018-11",1,btl,44200,0 %,44200,,Taxable,False,
+SO-000947,Fulfilled,Paid,CEDARCREST HOSPITAL ABUJA,OBINNA,8066807061,info@cedarcresthospitals.com,"Plot 195 Apo Dutse Road Off Oladipo Diya Way, Gudu District, Abuja.","Gudu District, Abuja.",APO,ABUJA,NIGERIA,,,,"Plot 195 Apo Dutse Road Off Oladipo Diya Way, Gudu District, Abuja.","Gudu District, Abuja.",APO,ABUJA,NIGERIA,,,NGN,1,,10/27/2017 8:37:27 AM,,,10/27/2017 8:43:03 AM,,2/6/2018 11:53:14 AM,169000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, HM18-008-05, EXP:2018-12",1,btl,46800,0 %,46800,,Taxable,False,
+SO-000948,Fulfilled,Paid,DR UCHE CHIKA,DR.UCHE CHIKA,7068647284,,99 FAULKS ROAD ABA.,,ABA,ABIA,NIGERIA,,,,99 FAULKS ROAD ABA.,,ABA,ABIA,NIGERIA,,,NGN,1,,10/27/2017 3:46:59 PM,"please note that N100,000.00 paid (here attached) was applied thus - (N39k to inv. # 948, N39K # 227 & N18,124.80 # 616)",1500,10/27/2017 3:48:24 PM,10/27/2017 3:48:24 PM,10/30/2017 12:26:16 PM,39000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ERMA CLEANING SOLUTION HC-2, 1L ","ERMA Cleaning solution HC-2, 01-640-1, 1L, exp: 2018-08",1,pcs.,37500,0 %,37500,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"HDL CHOLESTEROL, 3X10 ML ","HDL Cholesterol, HDLC-0060, 3x10 ml, 2018-11",1,,22570.79,7 %,20990.83,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"TOTAL PROTEIN PLUS, 4X250   ML ","4X250   ML PROB-0700, 2018-05",1,,32885.16,7 %,30583.2,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"TRIGL MONO SL, 6 X 45 ML ","TRIGL MONO SL, TGML 0455, 6 x 45 ml , 2018-05",1,,22524.85,7 %,20948.11,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"UREA UV SL, 4 X 55 ML ","URSL 0455, 2019-04",1,,19248.75,7 %,17901.34,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"URIC ACID MONO SL, 12X20ML","URIC ACID MONO SL, AUML-0250, 12x20ml, 2018-08",1,,26589.38,7 %,24728.12,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ALBUMIN, 12X20 ML ","Albumin, ALBU 0250, 12x20 ml, 2019-07",1,,19751.73,7 %,18369.11,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ALP DEA SL, 4 X 25 ML ",EXP DATE: 2019/2,1,,15972.66,7 %,14854.57,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ALT/GPT, 8X25 ML ","ALT/GPT, ALSL 0250,8x25 ml, 2018-09",1,,30966.56,7 %,28798.9,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"AST/GOT 4+1 SL, 8X25 ML ","AST/GOT, ASSL 0250, 8X25 ML, 2018-08",1,,30164.54,7 %,28053.02,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"DIRECT BILIRUBIN, 8 X 25 ML ","Direct Bilirubin, BIDI 0250, 8 x 25 ml, 2019-02",1,,28478.91,7 %,26485.39,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"TOTAL BILIRUBIN, 8 X 25 ML   ","Total Bilirubin, BITO-0250, 8 x 25 ml  , 2019-03",1,packs,28383.75,7 %,26396.89,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CALCIUM ARSENAZO, 2X 125 ML ","Calcium Arsenazo, CALA-0600, 2x 125 ml,2019/2 ",1,,20540.16,7 %,19102.35,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CHOLESTEROL +STD 4X250, 4X250  ","4x250 ,EXP DATE:2018/11",1,,30908,7 %,28744.44,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CREATININE JAFFE, 4X250 ML ","Creatinine Jaffe, CRCO-0700, 4x250 ml, 2018-11",1,,21867.81,7 %,20337.06,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"GLUCOSE PAP SL, 12X20 ML ","Glucose PAP SL, GPSL 0250, 12X20 ML, 2019-05",1,,17957.35,7 %,16700.34,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,PHOSPHORUS 2X125 ML,"PHOSPHORUS 2X125 ML PHOS-0600, 2019-03",1,,12931.1,7 %,12025.92,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ELICAL 2, 4X3 ML "," CALI-0550, 4x3 ml, 2018-12",1,packs,63437.5,7 %,58996.88,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML, 2018-10",1,packs,70515.63,7 %,65579.54,,Taxable,False,
+SO-000949,Fulfilled,Paid,MINJIRYA HEALTH SERVICES,MR. NURA,8039290208,,KANO,,KANO,KANO,Nigeria,,,,KANO,,KANO,KANO,Nigeria,,,NGN,1,,10/27/2017 3:53:53 PM,,,10/27/2017 3:59:05 PM,10/27/2017 3:59:05 PM,10/30/2017 12:12:48 PM,551932.57,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"ELITROL II,  10X5 ML ","ELITROL II, CONT-0160, 10X5 ML, 2018-10",1,,77781.25,7 %,72336.56,,Taxable,False,
+SO-000950,Fulfilled,Paid,JAFAMEK DIAGNOSTIC LAB,MR EBUA,8065378918,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/28/2017 10:31:36 AM,,,10/28/2017 10:49:29 AM,10/28/2017 10:49:29 AM,10/30/2017 1:13:21 PM,161974.79,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,MR ABEL O.J,,"CHOLESTEROL TOTAL SL WITH STANDARD, 2X100 ",CHOLESTEROL TOTAL SL with standard 2x100ml,3,packs,9853,0 %,29559,,Taxable,False,
+SO-000950,Fulfilled,Paid,JAFAMEK DIAGNOSTIC LAB,MR EBUA,8065378918,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/28/2017 10:31:36 AM,,,10/28/2017 10:49:29 AM,10/28/2017 10:49:29 AM,10/30/2017 1:13:21 PM,161974.79,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,MR ABEL O.J,,"PHOSPHOROUS 2X100ML, 2X100ML ",Phosphorous 2x100ml,2,,6713.44,0 %,13426.88,,Taxable,False,
+SO-000950,Fulfilled,Paid,JAFAMEK DIAGNOSTIC LAB,MR EBUA,8065378918,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/28/2017 10:31:36 AM,,,10/28/2017 10:49:29 AM,10/28/2017 10:49:29 AM,10/30/2017 1:13:21 PM,161974.79,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,MR ABEL O.J,,"AST/GOT, 4X100ML ",4X100ml,3,,13210.31,0 %,39630.93,,Taxable,False,
+SO-000950,Fulfilled,Paid,JAFAMEK DIAGNOSTIC LAB,MR EBUA,8065378918,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/28/2017 10:31:36 AM,,,10/28/2017 10:49:29 AM,10/28/2017 10:49:29 AM,10/30/2017 1:13:21 PM,161974.79,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,MR ABEL O.J,,"BILIRUBIN DIRECT 4+1 ,2X 125 ML ","Bilirubin Direct 4+1 BIDI-0600, 2x 125 ml",3,packs,11026.25,0 %,33078.75,,Taxable,False,
+SO-000950,Fulfilled,Paid,JAFAMEK DIAGNOSTIC LAB,MR EBUA,8065378918,,ABUJA,,,,,,,,ABUJA,,,,,,,NGN,1,,10/28/2017 10:31:36 AM,,,10/28/2017 10:49:29 AM,10/28/2017 10:49:29 AM,10/30/2017 1:13:21 PM,161974.79,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,MR ABEL O.J,,"BILIRUBIN TOTAL & DIRECT 4+1, 2X 125 ML   ","Bilirubin Total & direct, BITD-0600, 2x 125 ml  ",3,,15426.41,0 %,46279.23,,Taxable,False,
+SO-000951,Fulfilled,Paid,RASHEED SHEKONI SPECIALIST HOSPITAL ,ZAINAB IBRAHIM HEMATOLOGY,8038741550,,DUTSE ,,JIGAWA,JIGAWA,,,,,DUTSE ,,JIGAWA,JIGAWA,,,,NGN,1,,10/30/2017 4:56:35 PM,"TERMS
+Currency: (NGN)
+Offer: DAP Dutse
+Payment: 100% in advance
+Delivery: within 7 days of order confirmation
+Offer validity: 28days.  
+Warranty duration: 12months. 
+",,10/30/2017 5:00:52 PM,10/30/2017 5:00:52 PM,12/11/2017 10:34:25 AM,172500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,5,packs,20500,0 %,102500,,Taxable,False,
+SO-000951,Fulfilled,Paid,RASHEED SHEKONI SPECIALIST HOSPITAL ,ZAINAB IBRAHIM HEMATOLOGY,8038741550,,DUTSE ,,JIGAWA,JIGAWA,,,,,DUTSE ,,JIGAWA,JIGAWA,,,,NGN,1,,10/30/2017 4:56:35 PM,"TERMS
+Currency: (NGN)
+Offer: DAP Dutse
+Payment: 100% in advance
+Delivery: within 7 days of order confirmation
+Offer validity: 28days.  
+Warranty duration: 12months. 
+",,10/30/2017 5:00:52 PM,10/30/2017 5:00:52 PM,12/11/2017 10:34:25 AM,172500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"BONE MARROW ASPIRATION NEEDLE, PCS ","BONE MARROW ASPIRATION NEEDLE, PCS ",5,,14000,0 %,70000,,Taxable,False,
+SO-000952,Fulfilled,Paid,ALBARKA CLINIC,THE DIRECTOR,,,,,DUTSE,JIGAWA,NIGERIA,,,,,,DUTSE,JIGAWA,NIGERIA,,,NGN,1,,10/30/2017 4:59:22 PM,,,10/30/2017 5:03:01 PM,,12/11/2017 11:18:07 AM,20500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,1,packs,20500,0 %,20500,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,DCL SHOWCASE FRIDGE,"MODEL:NC360, S/N:17012473314202378",1,,0,0 %,0,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,DIAGON SEMI AUTOMATED COAGULATION ANALYZER,"Make: Diagon,Model: Coag4D,Country of Manuf: Hungary,Parameters: PT (Ratio, INR, time),Thrombin time TT (Ratio, time), Caolin-Kephalin time APTT (Ratio, time), Fibrinogen 
+S/N:0632-0915
+",1,,1950000,0 %,1950000,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,SKYLA HB1 CLINICAL CHEMISTRY ANALYZER,SKYLA HB1 CLINICAL CHEMISTRY ANALYZER S/N:A1H1702160040,1,,5880000,0 %,5880000,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,",S/N:370112170091,1,,0,0 %,0,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,FULLY AUTOMATED IMMUNOLOGY ANALYZER (ADALTIS PLAB),S/N:29B0F18C11,1,,0,0 %,0,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,DIGITAL THERMOMETER,"TEMPERATURE: 
+Indoors: -10˚c ~ +50˚c (+14˚F ~ 122˚F)
+Outdoors: 50˚c ~ +70˚c (-58˚F ~+158˚F)
+Power supply: 1.5V (AG13) X 1
+",1,pcs.,0,0 %,0,,Taxable,False,
+SO-000953,Fulfilled,Uninvoiced,NIGERIAN NATIONAL PETROLEUM CORPORATION  CLINIC MAITAMA ABUJA,Mr Salihu,8038560781,,"No.37, Usuma Street,Maitama Nigeria Owena Cl, Abuja.","USMAN STREET,MAITAMA.",MAITAMA,ABUJA,NIGERIA,,,,"No.37, Usuma Street,Owena Cl",,MAITAMA,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 9:57:07 AM,,,,10/31/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Doantions,,No Tax,0,0,False,,,True,True,PLACEMENT,MR CHARLES ANYANWU,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","LABJENIKS Q-LYTE 60  : K+, Na+, Cl-, Ca+, PH,TC02,Ref. S/N:370112170091",-1,,0,0 %,0,,Taxable,False,
+SO-000954,Fulfilled,Paid,Labcrest Ltd,MR SOJI,8036790731,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,10/31/2017 12:06:58 PM,"
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)",,10/31/2017 12:13:16 PM,10/31/2017 12:13:16 PM,11/11/2017 3:24:49 PM,40320,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CORTISOL, PK ",pk  EXP:2018-06,1,packs,40320,0 %,40320,,Taxable,False,
+SO-000955,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,10/31/2017 1:19:20 PM,,,,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLASMA DUAL PUMP MANIFOLD, PC ",PC,1,,0,0 %,0,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,REAGENT FRIDGE (2-8 DEGREES), Model: NC360,1,,385000,0 %,385000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Reagent Freezer ,"Reagent Freezer , model :NX-800, S/N: NX1706123FE01180",1,,300000,0 %,300000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,DIGITAL THERMOMETER,,2,pcs.,29000,0 %,58000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ENZYM TEMPERATURE RECORDER, PC   .. ",TEMPERATURE RECORDER,2,,22000,0 %,44000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,LATEX EXAMINATION GLOVES,LATEX EXAMINATION GLOVES,5,,1870,0 %,9350,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TEST TUBE, 10ML",5ML GLASS TEST TUBES,20,,120,0 %,2400,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TEST TUBE, 10ML",10ML GLASS TEST TUBES,10,,200,0 %,2000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"LASSANY TEST TUBE RACK METAL, PCS ",,1,pcs.,8800,0 %,8800,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"FLOURIDE OXALATE CONTAINER, 5ML",5ml container,2,,4500,0 %,9000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"EDTA container, 5ml",5ml container,2,,3600,0 %,7200,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"Plain Container, 5ml",5ml container,2,,3600,0 %,7200,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"Lithium Heparin container, 5ml",5ml container,2,,2000,0 %,4000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,LEISHMAIN'S STAIN,"LEISHMAIN HAEMATOLOGICAL STAIN, 100ML",1,,1000,0 %,1000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Slide storage Cabinets(Big),Slides,10,,750,0 %,7500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"COVER SLIPS(500PC/CASE), CASE ",10PC/BOX,1,,6500,0 %,6500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ANTI A, 10 ML ","ANTI A: Plasmatec (10x10ml), EXP:2019-04",1,packs,11000,0 %,11000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ANTI B, 10 ML  ","ANTI B: Plasmatec (10x10ml), EXP:2018-10",1,packs,11000,0 %,11000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ANTI AB, 10 ML/BTL ","ANTI AB: Plasmatec (10x10ml),EXP:201804",1,packs,14000,0 %,14000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ANTI D, 10 ML/BTL  ","ANTI D: Plasmatec (10x10ml), EXP:2019-05",1,packs,14000,0 %,14000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,HBSAG KIT,"STRIP/ SERUM/PLAMA, HEPATITIS B VIRUS KIT",1,,4400,0 %,4400,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,HCV KIT,"STRIP/SERUM/PLASMA, HCV KIT",1,,6800,0 %,6800,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,SYPHILIS KIT,"STRIP/SERU/PLASMA, VDRL kit",1,,4400,0 %,4400,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ","MULTI SURE HIV RAPID TEST KIT 20 TESTS, 2019-02",1,packs,16000,0 %,16000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,NEUBER COUNTING CHAMBER,"Make: Hawksley
+Country of Manuf: UK
+",1,,16000,0 %,16000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CELLULOSE ACETATE PAPER, PCS ",CELLULOSE ACETATE PAPER,5,pcs.,1200,0 %,6000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,ELECTROPHORESIS BUFFER SOLUTION,"Genotype buffer, 500ml",1,btl,7600,0 %,7600,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Capillary tube Sealant ,Make: Plasticine,1,,1500,0 %,1500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,CLED agar,"Make: Himedia, 500g",1,,26000,0 %,26000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Nutrient Agar,"Make: Himedia, 500g",1,,26000,0 %,26000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,DCA Agar,"Make: Himedia, 500g",1,,26000,0 %,26000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Petri Dish,"Disposable petridish, per carton",1,,25000,0 %,25000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Wire loop,Nichrome wire loop,1,,1100,0 %,1100,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,URINE CONTAINER (STERILE),"URINE CONTAINER (STERILE), Make: Unimed",1,,500,0 %,500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,stool container,Make: Unimed,1,,500,0 %,500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Bursen burner,Make: Medsteel,1,,5000,0 %,5000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Tripod stand,Make: Medsteel,1,,8800,0 %,8800,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Giemsa stain or Field stain A and B,Field stain A,1,,1500,0 %,1500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Filter paper,Filter paper,1,,5000,0 %,5000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,FDB kit,Make: Mp Biomedical diagnostics,1,,18000,0 %,18000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,H.pylori Kit,H.pylori Kit,1,,16000,0 %,16000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"HCG URINE PREGNANCY TEST STRIP, 100TESTS ","100tests, Make: Mp Biomedicals",1,pcs.,10000,0 %,10000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Measuring cylinder ,500ml glass,1,,8000,0 %,8000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Measuring cylinder ,1000ml glass,1,,16000,0 %,16000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Conical flask ,"500ml  Glass, heat resistant",1,,10000,0 %,10000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Conical flask ,"1000ml  Glass, heat resistant",1,,18000,0 %,18000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Beaker,250ml,1,,3000,0 %,3000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Beaker,500ml,1,,5000,0 %,5000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Swab stick ,Make: Unimedicals,1,,6000,0 %,6000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"AST / GOT SL, 4 X 62,5 ML   ","AST / GOT SL, ASSL-0430, 4 x 62,5 ml ,EXP:2018-08",1,,13480.48,0 %,13480.48,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ALT / GPT SL, 4 X 62,5   ML ","ALT / GPT SL, ALSL-0430, 4 x 62,5   ML, EXP:2018-08",1,,13480.48,0 %,13480.48,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ALP (DEA) SL, 4X62,5 ML   ","ALP (DEA) SL, PASL-0420, 4x62,5 ml ,EXP:2019-05",1,,13344.54,0 %,13344.54,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ALBUMIN BCG, 2X 125 ML ","Albumin BCG, ALBU-0600, 2x 125 ml  ,EXP:2018-10",1,,10494.38,0 %,10494.38,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TOTAL PROTEIN PLUS, 2X125 ML ","TOTAL PROTEIN PLUS, PROB-0600, 2X125 ML, EXP:2018-06",1,,12033.91,0 %,12033.91,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,GAMMA GT 4X62.5 ML,"GAMMA GT-SL GASL-0420, EXP:2018-09",1,,19965,0 %,19965,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"BILIRUBIN TOTAL & DIRECT 4+1, 2X 125 ML   ","Bilirubin Total & direct, BITD-0600, 2x 125 ml  ,EXP:2019-02",1,,15308.6,0 %,15308.6,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"UREA UV SL, 4 X 62,5 ML","Urea UV SL, URSL-0420, 4 x 62,5 ml, EXP:2019-04",1,,14377.66,0 %,14377.66,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CREATININE JAFFE, 4X250 ML ","Creatinine Jaffe, CRCO-0700, 4x250 ml, EXP:2018-11",1,,21867.81,0 %,21867.81,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"CHOLESTEROL PAP SL + STD, 6X 100 ML ","Cholesterol PAP SL + STD, CHSL-0507, 6x 100 ml, EXP:2018-11",1,,20865.94,0 %,20865.94,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TRIGLYCERIDES SL + STD 5ML, 6 X 50 ML ","Triglycerides SL + STD 5ml, TGML-0427, 6 x 50 ml, EXP:2018-11",1,,25138.29,0 %,25138.29,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"HDL CHOLESTEROL, 3X10 ML ","HDL Cholesterol, HDLC-0060, 3x10 ml, EXP:2018-11",1,,22570.79,0 %,22570.79,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"LDL CHOLESTEROL DIRECT SL 2G, 1X80 ML ","LDL CHOLESTEROL DIRECT SL 2G, LDLL-0380, 1X80 ML, EXP:2018-10",1,,95806.25,0 %,95806.25,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"GLUCOSE PAP SL + STD, 6X100 ML ","Glucose PAP SL, GPSL-0507, 6X100 ML, EXP:2019-04",1,,13083.44,0 %,13083.44,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ELICAL 2, 4X3 ML "," CALI-0550, 4x3 ml, EXP:2018-12",1,packs,63437.5,0 %,63437.5,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML, EXP:2018-10",1,packs,70515.63,0 %,70515.63,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"Cotton wool, absorbent ",Sterile Roll,1,,1500,0 %,1500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Syringes ,2ml,1,,2000,0 %,2000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Syringes ,5ml,1,,2000,0 %,2000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,, Methylated spirit,2.5L,1,,3000,0 %,3000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,Giemsa stain or Field stain A and B,Field stain B,1,btl,1500,0 %,1500,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"TOURNIQUET,UNIT ",Lock reusable tournique,1,pcs.,1000,0 %,1000,,Taxable,False,
+SO-000956,Fulfilled,Paid,P- SEVEN MEDICAL DIAGNOSTIC,DR ALABI,8037876140,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 1:41:14 PM,"Terms
+Currency: Naira 
+Offer: DAP Abuja
+Installation, User training and 12 month’s service support inclusive
+Delivery: Within  one weeks of your LPO receipt.
+Payments: 100% advance payment.
+Offer validity: 60 days. 
+Warranty duration: 12months 
+",,11/1/2017 5:07:58 PM,11/1/2017 5:07:58 PM,9/15/2018 10:23:56 AM,1661820.7,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"SHARP CONTAINER, CTNS ",CTNS,1,,5000,0 %,5000,,Taxable,False,
+SO-000957,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 3:05:39 PM,,,,11/1/2017 12:00:00 AM,11/1/2017 12:44:57 PM,128000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,CHIAMAKA NGURUKWEM,,"PLATELET KIT, 225 ML ",225 ML,1,kits,128000,0 %,128000,,Taxable,False,
+SO-000957,Fulfilled,Paid,MRS AMAKA,,7065017041,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,,"HEMATOLOGY DEPARTMENT, NATIONAL HOSPITAL",,Abuja,FCT,Nigeria,,,NGN,1,,10/31/2017 3:05:39 PM,,,,11/1/2017 12:00:00 AM,11/1/2017 12:44:57 PM,128000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,CHIAMAKA NGURUKWEM,,"ACD-A, 500ML ",500ml,1,,0,0 %,0,,Taxable,False,
+SO-000958,Fulfilled,Paid,BAYELSA DIAGNOSTIC CENTER,MRS OGE NKWOCHA,8033345493,,,,YENAGOA,BAYELSA,NIGERIA,,,,,,YENAGOA,BAYELSA,NIGERIA,,,NGN,1,,10/31/2017 4:01:38 PM,,,10/31/2017 4:09:59 PM,10/31/2017 4:09:59 PM,12/12/2017 5:25:02 PM,158270,10/31/2017 12:00:00 AM,230,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,DAVID ORJI,,"MINICAP HEMOGLOBIN(E), PC ","pcEXP DATE:2018/11, LOT :24115/02, REF:2207",1,packs,226100,30 %,158270,,Taxable,False,
+SO-000959,Fulfilled,Paid,BAYELSA DIAGNOSTIC CENTER,MRS OGE NKWOCHA,8033345493,,,,YENAGOA,BAYELSA,NIGERIA,,,,,,YENAGOA,BAYELSA,NIGERIA,,,NGN,1,,10/31/2017 4:10:14 PM,,,10/31/2017 4:13:31 PM,10/31/2017 4:13:31 PM,12/12/2017 5:24:17 PM,68551.2,10/31/2017 12:00:00 AM,220,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,DAVID ORJI,,"SYPHILIS KIT, 192 TESTS ","SYPHILIS KIT, 081142, 192 TESTS LOT:16263, REF:081142",1,,85689,20 %,68551.2,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"GLUCOSE PAP SL, 12X20 ML ","Glucose PAP SL, GPSL 0250, 12X20 ML",114,,49.62,0 %,5656.68,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"AST/GOT 4+1 SL, 8X25 ML ","AST/GOT, ASSL 0250, 8X25 ML",169,,83.35,0 %,14086.15,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ALT/GPT, 8X25 ML ","ALT/GPT, ALSL 0250,8x25 ml",144,,85.56,0 %,12320.64,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"CREATININE PAP, 8X28 ML  ","Creatinine PAP SL ,CRSL 0250, 8X25ml",141,,158.77,0 %,22386.57,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ISE DILUENT, 12X25ML ","ISE DILUENT,ISDI-0250 ,12X25 ML",78,,219.1,0 %,17089.8,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ISE REFERENCE SOLUTION, 1X500 ML ",ISE REFERENC4E 1X500 ML ISRS 0800,97,,156.5,0 %,15180.5,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ISE CALIBRATOR, 2 X (6X20ML) ","ISE Calibrator, ISCA-0250, 2 x (6x20ml)",136,,234.75,0 %,31926,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML",103,,186.55,0 %,19214.65,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ELITROL II,  10X5 ML ","ELITROL II, CONT-0160, 10X5 ML",102,,202.82,0 %,20687.64,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ISE CLEANER & CONDITONER, 6 X 8 ML + 3 X 25 ML ","ISE CLEANER & CONDITONER, ISCC-0280, 6 x 8 ml + 3 x 25 ml",122,,176.06,0 %,21479.32,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"SYSTEM CLEANING SOLUTION, SLNA-5900-EE ","System cleaning solution, SLNA-5900-EE, 1L",107,,114.56,0 %,12257.92,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"SYSTEM SOLUTION, 1 L ","SYSTEM SOLUTION, SLSY-5900-EE, 1 L",93,btl,167.77,0 %,15602.61,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,POTASSIUM ELECTRODE,"POTASSIUM ELECTRODE, 3918-005",117,,369.34,0 %,43212.78,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,REFERENCE ELECTRODE,"REFERENCE ELECTRODE, 3918-002",129,,369.34,0 %,47644.86,,Taxable,False,
+SO-000960,Fulfilled,Paid,IDA FOUNDATION,Gauri Bapat ,+91 22 6740 6951 ,gbapat@idafoundation.org,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,,"Slochterweg 35,1027 AA Amsterdam",,,,Netherland,,,USD,0.0023,,11/1/2017 9:25:30 AM,,,11/1/2017 9:50:25 AM,11/1/2017 9:50:25 AM,11/1/2017 12:45:57 PM,316098.84,10/30/2017 12:00:00 AM,17106057,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Dollar Transactions,NET0,,No Tax,0,0,False,,,True,True,PO,Charles Anyanwu,28-07-2017,"ELICAL 2, 4X3 ML "," CALI-0550, 4x3 ml",99,,175.28,0 %,17352.72,,Taxable,False,
+SO-000961,Fulfilled,Paid,MRS BARBARA,MRS BARBARA,,,MRS BARBARA,ABUJA,,,,,,,MRS BARBARA,ABUJA,,,,,,NGN,1,,11/2/2017 12:00:00 AM,,,11/2/2017 12:00:00 AM,11/2/2017 12:00:00 AM,11/1/2017 1:52:00 PM,38641.72,11/2/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,normal,ABEL O.J,,"BILIRUBIN DIRECT 4+1 ,2X 125 ML ","Bilirubin Direct 4+1 BIDI-0600, 2x 125 ml exp date:2018/12",1,packs,11026.25,0 %,11026.25,,Taxable,False,
+SO-000961,Fulfilled,Paid,MRS BARBARA,MRS BARBARA,,,MRS BARBARA,ABUJA,,,,,,,MRS BARBARA,ABUJA,,,,,,NGN,1,,11/2/2017 12:00:00 AM,,,11/2/2017 12:00:00 AM,11/2/2017 12:00:00 AM,11/1/2017 1:52:00 PM,38641.72,11/2/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,normal,ABEL O.J,,"BILIRUBIN TOTAL & DIRECT 4+1, 2X 125 ML   ","Bilirubin Total & direct, BITD-0600, 2x 125 ml exp  date:2019/1  ",1,,15426.41,0 %,15426.41,,Taxable,False,
+SO-000961,Fulfilled,Paid,MRS BARBARA,MRS BARBARA,,,MRS BARBARA,ABUJA,,,,,,,MRS BARBARA,ABUJA,,,,,,NGN,1,,11/2/2017 12:00:00 AM,,,11/2/2017 12:00:00 AM,11/2/2017 12:00:00 AM,11/1/2017 1:52:00 PM,38641.72,11/2/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,normal,ABEL O.J,,"UREA UV SL, 2X62.5M+STD","Urea UV SL, URSL-0420, 2 x 62,5 ml.exp date:2019/4",1,,12189.06,0 %,12189.06,,Taxable,False,
+SO-000962,Fulfilled,Paid,NEW EDGE DIAGNOSTIC CENTRE,MRS BENSON OBIAGERI,8035884902,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,,DEO GRATIS PLAZA,,Utako,FCT,Nigeria,,,NGN,1,,11/1/2017 10:28:17 AM,,,11/2/2017 11:44:37 AM,11/2/2017 11:44:37 AM,11/6/2017 4:04:57 PM,14500,11/2/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,normal,EZE OKO,,"TOTAL BILIRUBIN, 4X100ML ",4x100ml exp date:2018/05,1,,14500,0 %,14500,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,PHOSPHORUS 2X125 ML,PHOSPHORUS 2X125 ML PHOS-0600.lot no 17-0955.Exp 2019-03,1,,12931.1,0 %,12931.1,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,"TOTAL PROTEIN PLUS, 2X125 ML ","TOTAL PROTEIN PLUS, PROB-0600, 2X125 ML.lot no 17-0516.Exp 2018-06",1,,12033.91,0 %,12033.91,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,"GLUCOSE PAP SL + STD, 6X100 ML ","Glucose PAP SL, GPSL-0507, 6X100 ML.lot no 17-1339.exp 2019-04",1,,13083.44,0 %,13083.44,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML.lot no 01-1025-01.exp 2018-10",1,packs,70515.63,0 %,70515.63,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,"ELITROL II,  10X5 ML ","ELITROL II, CONT-0160, 10X5 ML.lot no 02-2025-01.exp 2018-10",1,,77781.25,0 %,77781.25,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,"UREA UV SL, 4 X 62,5 ML","Urea UV SL, URSL-0420, 4 x 62,5 ml,lot no 17-1059.Exp 2019-04",1,,14400,0 %,14400,,Taxable,False,
+SO-000963,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,0 %,11/1/2017 4:12:19 PM,,3000,11/1/2017 4:32:40 PM,11/1/2017 4:32:40 PM,11/1/2017 5:01:20 PM,267182.83,11/1/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,NWOSU CHINYERE,,"ELICAL 2, 4X3 ML "," CALI-0550, 4x3 ml",1,packs,63437.5,0 %,63437.5,,Taxable,False,
+SO-000964,Fulfilled,Paid,LIMI HOSPITAL,The Medical Director,2348093335464,,,,Abuja,FCT,Nigeria,,,,,,Abuja,FCT,Nigeria,,,NGN,1,,11/1/2017 4:25:26 PM,"Terms
+Currency: Naira.
+Order confirmation: confirmed PO.
+Delivery: Within 2 4hrs of your LPO Confirmation.
+Payments: 100% within  7 days after delivery.
+Offer validity: 30 days.
+Warranty duration: 12 months
+Service support: Will be executed per quarter from the date of installation to a period of 1year free of charge.
+",,11/1/2017 4:25:38 PM,11/1/2017 4:25:38 PM,12/11/2017 3:38:41 PM,1950000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Oko Eze,,"MYTHIC 18 FULLY AUTOMATED HEMATOLOGY ANALYSER, (Stocked Product)","Manufacturer: Orphee
+Model: Mythic 18
+Parameters: 18 parameters 3- part diff 
+Country of origin: Switzerland, S/N:100617-009830
+",1,,1950000,0 %,1950000,,Taxable,False,
+SO-000964,Fulfilled,Paid,LIMI HOSPITAL,The Medical Director,2348093335464,,,,Abuja,FCT,Nigeria,,,,,,Abuja,FCT,Nigeria,,,NGN,1,,11/1/2017 4:25:26 PM,"Terms
+Currency: Naira.
+Order confirmation: confirmed PO.
+Delivery: Within 2 4hrs of your LPO Confirmation.
+Payments: 100% within  7 days after delivery.
+Offer validity: 30 days.
+Warranty duration: 12 months
+Service support: Will be executed per quarter from the date of installation to a period of 1year free of charge.
+",,11/1/2017 4:25:38 PM,11/1/2017 4:25:38 PM,12/11/2017 3:38:41 PM,1950000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Oko Eze,,"MYTHIC 18 DILUENT 10 L, 10 L ","MYTHIC 18 DILUENT 10 L, HM18-009-10, 10L",1,,0,0 %,0,,Taxable,False,
+SO-000964,Fulfilled,Paid,LIMI HOSPITAL,The Medical Director,2348093335464,,,,Abuja,FCT,Nigeria,,,,,,Abuja,FCT,Nigeria,,,NGN,1,,11/1/2017 4:25:26 PM,"Terms
+Currency: Naira.
+Order confirmation: confirmed PO.
+Delivery: Within 2 4hrs of your LPO Confirmation.
+Payments: 100% within  7 days after delivery.
+Offer validity: 30 days.
+Warranty duration: 12 months
+Service support: Will be executed per quarter from the date of installation to a period of 1year free of charge.
+",,11/1/2017 4:25:38 PM,11/1/2017 4:25:38 PM,12/11/2017 3:38:41 PM,1950000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Oko Eze,,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, HM18-008-05",1,btl,0,0 %,0,,Taxable,False,
+SO-000964,Fulfilled,Paid,LIMI HOSPITAL,The Medical Director,2348093335464,,,,Abuja,FCT,Nigeria,,,,,,Abuja,FCT,Nigeria,,,NGN,1,,11/1/2017 4:25:26 PM,"Terms
+Currency: Naira.
+Order confirmation: confirmed PO.
+Delivery: Within 2 4hrs of your LPO Confirmation.
+Payments: 100% within  7 days after delivery.
+Offer validity: 30 days.
+Warranty duration: 12 months
+Service support: Will be executed per quarter from the date of installation to a period of 1year free of charge.
+",,11/1/2017 4:25:38 PM,11/1/2017 4:25:38 PM,12/11/2017 3:38:41 PM,1950000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Oko Eze,,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1",1,btl,0,0 %,0,,Taxable,False,
+SO-000964,Fulfilled,Paid,LIMI HOSPITAL,The Medical Director,2348093335464,,,,Abuja,FCT,Nigeria,,,,,,Abuja,FCT,Nigeria,,,NGN,1,,11/1/2017 4:25:26 PM,"Terms
+Currency: Naira.
+Order confirmation: confirmed PO.
+Delivery: Within 2 4hrs of your LPO Confirmation.
+Payments: 100% within  7 days after delivery.
+Offer validity: 30 days.
+Warranty duration: 12 months
+Service support: Will be executed per quarter from the date of installation to a period of 1year free of charge.
+",,11/1/2017 4:25:38 PM,11/1/2017 4:25:38 PM,12/11/2017 3:38:41 PM,1950000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Oko Eze,,EPSON PRINTER LQ-350,"EPSON PRINTER LQ-350, MODEL NO:PA81A, S/N: R9AY076312",1,,0,0 %,0,,Taxable,False,
+SO-000965,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/2/2017 9:52:44 AM,N/B- The extra money on the payment is for ware bill,,11/2/2017 10:01:38 AM,,11/8/2017 3:37:42 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,2,kits,128000,0 %,256000,,Taxable,False,
+SO-000965,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/2/2017 9:52:44 AM,N/B- The extra money on the payment is for ware bill,,11/2/2017 10:01:38 AM,,11/8/2017 3:37:42 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,2,,0,0 %,0,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"FABP - CHECK-1,   PK  ",  PK ,1,packs,41280,0 %,41280,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CAL PROTECTIN CHECK-1, PK  ",PK ,1,packs,35960,0 %,35960,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,PSA Check 1,PSA CHCK-1 TEST  8091,1,pcs.,42800,0 %,42800,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"B-HCG,  PK ","B-HCG CHECK-1,, 3291-3L ",1,packs,18000,0 %,18000,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CK MB, PK  ",pk ,1,packs,41200,0 %,41200,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,Urea 4x100ML,4x100,1,packs,21600,0 %,21600,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,1,pcs.,16000,0 %,16000,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"FABP - CHECK-1,   PK  ",  PK ,-1,packs,41280,0 %,-41280,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CAL PROTECTIN CHECK-1, PK  ",PK ,-1,packs,35960,0 %,-35960,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CK MB, PK  ",pk ,-1,packs,41200,0 %,-41200,,Taxable,False,
+SO-000966,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/2/2017 10:15:04 AM,,,11/2/2017 10:38:56 AM,11/2/2017 10:38:56 AM,11/9/2017 11:00:10 AM,76800,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,Urea 4x100ML,4x100,-1,packs,21600,0 %,-21600,,Taxable,False,
+SO-000967,Fulfilled,Paid,SAMOND,"Dr Akunwata, Dr Akengbola","08030889727, 08037287188",,,,Ibadan,Oyo state,Nigeria,,,,,,Ibadan,Oyo state,Nigeria,,,NGN,1,,11/2/2017 3:53:53 PM,,2000,11/2/2017 4:02:45 PM,,11/22/2017 3:35:51 PM,42800,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ","500ml, exp:2018-11",6,,6800,0 %,40800,,Taxable,False,
+SO-000968,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/2/2017 4:11:01 PM,waybill money inclusive,,11/2/2017 4:16:20 PM,,11/8/2017 3:36:50 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,2,kits,128000,0 %,256000,,Taxable,False,
+SO-000968,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/2/2017 4:11:01 PM,waybill money inclusive,,11/2/2017 4:16:20 PM,,11/8/2017 3:36:50 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,2,,0,0 %,0,,Taxable,False,
+SO-000969,Fulfilled,Paid,MR PETER  OLUGBO,,8029448281,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,11/3/2017 3:07:45 PM,customer paid for invoice # 969 & the balalce foe # 901,,11/3/2017 3:09:43 PM,11/3/2017 3:09:43 PM,11/3/2017 7:06:22 PM,35532.05,11/3/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,normal,VIVIAN OPARA,,"UREA UV SL + STD 5ML, 5X 125 ML ","Urea UV SL + STD 5ml, URSL-0507",1,,35532.05,0 %,35532.05,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ALBUMIN BCG, 2X 125 ML ","Albumin BCG, ALBU-0600, 2x 125 ml  ",1,,10494.38,0 %,10494.38,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ALP (DEA) SL, 4X62,5 ML   ","ALP (DEA) SL, PASL-0420, 4x62,5 ml ",1,,13344.54,0 %,13344.54,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ALT / GPT SL, 4 X 62,5   ML ","ALT / GPT SL, ALSL-0430, 4 x 62,5   ML",1,,13480.54,0 %,13480.54,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"AST / GOT SL, 4 X 62,5 ML   ","AST / GOT SL, ASSL-0430, 4 x 62,5 ml ",1,,13480.54,0 %,13480.54,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"CREATININE JAFFE, 4X250 ML ","Creatinine Jaffe, CRCO-0700, 4x250 ml",1,,18360,0 %,18360,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"GLUCOSE PAP SL+STD, 4X250  ML ","4X250  ML, GPSL-0707",1,,13310,0 %,13310,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"TOTAL PROTEIN PLUS, 2X125 ML ","TOTAL PROTEIN PLUS, PROB-0600, 2X125 ML",1,,10258.83,0 %,10258.83,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML",1,packs,70515.63,0 %,70515.63,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ISE CALIBRATOR, 2 X (6X20ML) ","ISE Calibrator, ISCA-0250, 2 x (6x20ml)",1,,87362.29,0 %,87362.29,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ISE DILUENT, 12X25ML ","ISE DILUENT,ISDI-0250 ,12X25 ML",1,,81032.04,0 %,81032.04,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ISE CLEANER & CONDITONER, 6 X 8 ML + 3 X 25 ML ","ISE CLEANER & CONDITONER, ISCC-0280, 6 x 8 ml + 3 x 25 ml",1,,66235.65,0 %,66235.65,,Taxable,False,
+SO-000970,Fulfilled,Paid,NIKABEN ENTERPRISES,MR. A.O BENSON,,,,,Ikoyi,LAGOS,NIGERIA,,,,,,Ikoyi,LAGOS,NIGERIA,,,NGN,1,,10/20/2017 12:00:00 AM,,,,10/20/2017 12:00:00 AM,11/6/2017 12:55:53 PM,458333.03,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,NORMAL,Ogbonna Chidi,,"ISE REFERENCE SOLUTION, 1X500 ML ",ISE REFERENC4E 1X500 ML ISRS 0800,1,,60458.59,0 %,60458.59,,Taxable,False,
+SO-000971,Fulfilled,Paid,"STATE HOSPITAL, OTTA",,,,,,Otta,Ogun State,Nigeria,,,,,,Otta,Ogun State,Nigeria,,,NGN,1,,10/30/2017 12:00:00 AM,composite payment,,,10/30/2017 12:00:00 AM,11/24/2017 5:33:38 PM,13344.54,,,GODWIN,"DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ALP (DEA) SL, 4X62,5 ML   ","ALP (DEA) SL, PASL-0420, 4x62,5 ml ",1,,13344.54,0 %,13344.54,,Taxable,False,
+SO-000972,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/6/2017 10:52:21 AM,note, this sale is not billable the adaptor is part of machine accesories ,,11/6/2017 11:01:15 AM,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,CENTRIFUGE ADAPTOR,-,1,,0,0 %,0,,Taxable,False
+SO-000973,Fulfilled,Uninvoiced,FEDERAL TEACHING HOSPITAL - ABAKILIKI,HEAD OF LAB,7063708121,,Billing Address,ABAKILIKI,ABAKILIKI,EBONYI,NIGERIA,,,,Billing Address,ABAKILIKI,ABAKILIKI,EBONYI,NIGERIA,,,NGN,1,,11/6/2017 11:03:53 AM,"LOAN TO CHEMISTRY LAB FETHA 1 TO BE CAPTURED ON NEXT LPO
+
+N/B:  The attached LPO settles this LOAN owed by FETHA",,,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"SODIUM ELECTRODE,  ","SODIUM ELECTRODE, 3918-004",1,pcs.,215475,0 %,215475,,Taxable,False,
+SO-000974,Fulfilled,Paid,VECAD HOSPITAL,DR OBI,8108313166,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,,"4 UMUAHIA CLOSE, AREA 11",,Garki ,FCT,Nigeria,,,NGN,1,,11/6/2017 11:12:18 AM,,,11/6/2017 11:16:47 AM,11/6/2017 11:16:47 AM,11/21/2017 10:13:51 AM,18000,11/6/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,DURU CHINWENDU,,"B-HCG,  PK ","B-HCG CHECK-1,, 3291-3L EXP DATE:2018/12",1,packs,18000,0 %,18000,,Taxable,False,
+SO-000975,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/6/2017 11:16:15 AM,,,11/6/2017 11:29:07 AM,11/6/2017 11:29:07 AM,12/4/2017 3:32:10 PM,85368.75,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"FABP - CHECK-1,   PK  ",  PK ,1,packs,29412.5,0 %,29412.5,,Taxable,False,
+SO-000975,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/6/2017 11:16:15 AM,,,11/6/2017 11:29:07 AM,11/6/2017 11:29:07 AM,12/4/2017 3:32:10 PM,85368.75,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CAL PROTECTIN CHECK-1, PK  ",PK ,1,packs,26543.75,0 %,26543.75,,Taxable,False,
+SO-000975,Fulfilled,Paid,AMBLIN LABORATORY SERVICES,,8030957880,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,,3 Nwosu Street Terrace Ogui Road,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/6/2017 11:16:15 AM,,,11/6/2017 11:29:07 AM,11/6/2017 11:29:07 AM,12/4/2017 3:32:10 PM,85368.75,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,,,"CK MB, PK  ",pk ,1,packs,29412.5,0 %,29412.5,,Taxable,False,
+SO-000976,Fulfilled,Paid,DIFF HOSPITAL ABUJA,MRS OGE,8033531183,info@diffhospital.com,"No 6, Udi Hills Close Aso Drive, Maitama","ASO DRIVE, MAITAMA",MAITAMA,ABUJA,NIGERIA,,,,"No 6, Udi Hills Close Aso Drive, Maitama","ASO DRIVE, MAITAMA",MAITAMA,ABUJA,NIGERIA,,,NGN,1,,11/6/2017 11:26:29 AM,"Customer made a composite payment, evidence attached",,11/6/2017 11:27:53 AM,,11/6/2017 11:35:57 AM,384000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ","225 ML, exp:2019-03",3,kits,128000,0 %,384000,,Taxable,False,
+SO-000976,Fulfilled,Paid,DIFF HOSPITAL ABUJA,MRS OGE,8033531183,info@diffhospital.com,"No 6, Udi Hills Close Aso Drive, Maitama","ASO DRIVE, MAITAMA",MAITAMA,ABUJA,NIGERIA,,,,"No 6, Udi Hills Close Aso Drive, Maitama","ASO DRIVE, MAITAMA",MAITAMA,ABUJA,NIGERIA,,,NGN,1,,11/6/2017 11:26:29 AM,"Customer made a composite payment, evidence attached",,11/6/2017 11:27:53 AM,,11/6/2017 11:35:57 AM,384000,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ","500ml, exp:2018-11",3,,0,0 %,0,,Taxable,False,
+SO-000977,Fulfilled,Uninvoiced,"FHI 360,GARKI,ABUJA",Ismail AbdulRahman ,234.94615555 ext. 000 ,iabdulrahman@ng.fhi360.org,"Plot 1073 J.S. Tarka Street Garki, Area 3 P.M.B. 44, Abuja.","Plot 1073 J.S. Tarka Street Garki, Area 3",,ABUJA,NIGERIA,,,,"Plot 1073 J.S. Tarka Street Garki, Area 3 P.M.B. 44, Abuja.","Plot 1073 J.S. Tarka Street Garki, Area 3",,ABUJA,NIGERIA,,,NGN,1,,11/6/2017 2:30:30 PM,USED ON BISHOP SHANAHAN CATHOLIC HOSP NSUKKA ,,,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,SERVICE KIT WATER PUMP JUNIOR SERIES ,"WATER PUMP, 6001-881",1,,290238,0 %,290238,,Taxable,False,
+SO-000977,Fulfilled,Uninvoiced,"FHI 360,GARKI,ABUJA",Ismail AbdulRahman ,234.94615555 ext. 000 ,iabdulrahman@ng.fhi360.org,"Plot 1073 J.S. Tarka Street Garki, Area 3 P.M.B. 44, Abuja.","Plot 1073 J.S. Tarka Street Garki, Area 3",,ABUJA,NIGERIA,,,,"Plot 1073 J.S. Tarka Street Garki, Area 3 P.M.B. 44, Abuja.","Plot 1073 J.S. Tarka Street Garki, Area 3",,ABUJA,NIGERIA,,,NGN,1,,11/6/2017 2:30:30 PM,USED ON BISHOP SHANAHAN CATHOLIC HOSP NSUKKA ,,,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"BELLOWS PUMP ASSY,  ","BELLOWS PUMP ASSY, 6002-752",1,pcs.,1459458,0 %,1459458,,Taxable,False,
+SO-000978,Fulfilled,Uninvoiced,FEDERAL TEACHING HOSPITAL - ABAKILIKI,HEAD OF LAB,7063708121,,Billing Address,ABAKILIKI,ABAKILIKI,EBONYI,NIGERIA,,,,Billing Address,ABAKILIKI,ABAKILIKI,EBONYI,NIGERIA,,,NGN,1,,11/6/2017 2:57:08 PM,"LOAN TO FETHA TO BE CAPTURED ON NEXT LPO 
+
+N/B:  The attached LPO settles this LOAN owed by FETHA",,,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ISE REFERENCE SOLUTION, 1X500 ML ",ISE REFERENC4E 1X500 ML ISRS 0800,1,,106288,0 %,106288,,Taxable,False,
+SO-000979,Fulfilled,Paid,FEDERAL TEACHING HOSPITAL - ABAKILIKI,HEAD OF LAB,7063708121,,Billing Address,ABAKILIKI,ABAKILIKI,EBONYI,NIGERIA,,,,Billing Address,ABAKILIKI,ABAKILIKI,EBONYI,NIGERIA,,,NGN,1,,11/6/2017 3:06:29 PM,PART OF ISE PARTS FOR SELECTRA INSTALLATION N/B: NOT BILLABLE,,11/6/2017 3:25:35 PM,,,0,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,GROUND ELECTRODE,,1,,0,0 %,0,,Taxable,False,
+SO-000980,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/7/2017 9:22:09 AM,,,11/7/2017 9:27:36 AM,,11/7/2017 3:19:30 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"PLATELET KIT, 225 ML ",225 ML,2,kits,128000,0 %,256000,,Taxable,False,
+SO-000980,Fulfilled,Paid,DR NNACHI,DR NNACHI,8035442642,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,,FEDERAL TEACHING HOSPITAL,,ABAKALIKI,EBONYI,NIGERIA,,,NGN,1,,11/7/2017 9:22:09 AM,,,11/7/2017 9:27:36 AM,,11/7/2017 3:19:30 PM,256000,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ACD-A, 500ML ",500ml,2,,0,0 %,0,,Taxable,False,
+SO-000981,Fulfilled,Paid,Mr Dogo Manasseh,,8055427325,,National Hospital Abuja,,,,Nigeria,,,,National Hospital Abuja,,,,Nigeria,,,NGN,1,0 %,11/7/2017 9:24:40 AM,,,11/7/2017 9:30:27 AM,11/7/2017 9:30:27 AM,11/7/2017 3:18:19 PM,128000,11/7/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,Laura Chukwuezi,,"PLATELET KIT, 225 ML ",225 ML.lot no 8316078.Exp 2019-03,1,kits,128000,0 %,128000,,Taxable,False,
+SO-000981,Fulfilled,Paid,Mr Dogo Manasseh,,8055427325,,National Hospital Abuja,,,,Nigeria,,,,National Hospital Abuja,,,,Nigeria,,,NGN,1,0 %,11/7/2017 9:24:40 AM,,,11/7/2017 9:30:27 AM,11/7/2017 9:30:27 AM,11/7/2017 3:18:19 PM,128000,11/7/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,Laura Chukwuezi,,"ACD-A, 500ML ",500ml.Exp 2018-11,1,,0,0 %,0,,Taxable,False,
+SO-000982,Fulfilled,Paid,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/7/2017 10:01:27 AM,,,,11/7/2017 12:00:00 AM,,0,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET30,,No Tax,0,0,False,,,True,True,REPLACEMENT,duru chinwe,,"UNINTERRUPTED POWER SUPPLY (UPS),",s/n:10111405080001,1,pcs.,0,0 %,0,,Taxable,False,
+SO-000983,Fulfilled,Paid,JAMSHIDI TREPHINE ,,,,GWAGWALABA,,Abuja,FCT,Nigeria,,,,GWAGWALABA,,Abuja,FCT,Nigeria,,,NGN,1,,11/7/2017 10:09:06 AM,,,11/7/2017 10:14:38 AM,11/7/2017 10:14:38 AM,11/10/2017 11:36:58 AM,14000,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,DURU CHINWE,,"NEOXUS NEEDLE BIOPSY, 11GX150MM ","NEOXUS needle Biopsy, NX11150-00, 11GX150MM",1,pcs.,14000,0 %,14000,,Taxable,False,
+SO-000984,Fulfilled,Paid,nigerian institute of medical research,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,NGN,1,,11/7/2017 12:30:35 PM,,,,,4/4/2018 6:41:09 PM,1575250,10/17/2017 12:00:00 AM,MR/GEN.AD/1035/I/108,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,NET30,,No Tax,0,0,False,,,True,True,LPO,Ogbonna Chidi,,VACUTAINER EDTA 4ML ,"VACUTAINER EDTA 4ML, 368861, 4ML, 100PCS/PK",40,,8350,0 %,334000,,Taxable,False,
+SO-000984,Fulfilled,Paid,nigerian institute of medical research,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,NGN,1,,11/7/2017 12:30:35 PM,,,,,4/4/2018 6:41:09 PM,1575250,10/17/2017 12:00:00 AM,MR/GEN.AD/1035/I/108,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,NET30,,No Tax,0,0,False,,,True,True,LPO,Ogbonna Chidi,,"VACUTAINER EDTA 6ML, ","VACUTAINER EDTA 6ML, 367864,",30,,9375,0 %,281250,,Taxable,False,
+SO-000984,Fulfilled,Paid,nigerian institute of medical research,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,NGN,1,,11/7/2017 12:30:35 PM,,,,,4/4/2018 6:41:09 PM,1575250,10/17/2017 12:00:00 AM,MR/GEN.AD/1035/I/108,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,NET30,,No Tax,0,0,False,,,True,True,LPO,Ogbonna Chidi,,"VACUTAINER EDTA 10ML, 10 ML ","VACUTAINER EDTA 10ML, 367525 ",40,,13312.5,0 %,532500,,Taxable,False,
+SO-000984,Fulfilled,Paid,nigerian institute of medical research,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,,"6, edmond Crescent",,Yaba,Lagos,Nigeria,,,NGN,1,,11/7/2017 12:30:35 PM,,,,,4/4/2018 6:41:09 PM,1575250,10/17/2017 12:00:00 AM,MR/GEN.AD/1035/I/108,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,NET30,,No Tax,0,0,False,,,True,True,LPO,Ogbonna Chidi,,"PRECISION GLIDE 21G, 21G 100PCS/PK ","VACUTAINER PRECISION GLIDE 21G, 360213, 21G 100PCS/PK",60,packs,7125,0 %,427500,,Taxable,False,
+SO-000985,Fulfilled,Paid,"FEDERAL TEACHING HOSPITAL, IDO EKITI",DR. SEGUN,8038279247,info@fmcidoekiti.com,"Fayose Housing Estate, Ilawe Road, Ado Ekiti","FAYOSE HOUSING ESTATE,LLAWE ROAD",IDO-EKITI,EKITI,NIGERIA,,,,"Fayose Housing Estate, Ilawe Road, Ado Ekiti","FAYOSE HOUSING ESTATE,LLAWE ROAD",IDO-EKITI,EKITI,NIGERIA,,,NGN,1,,11/7/2017 1:50:08 PM,,,11/7/2017 2:00:45 PM,11/7/2017 2:00:45 PM,12/8/2017 6:04:31 PM,2906200,11/7/2017 12:00:00 AM,FTH/ID/EK/AE'17/01,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,26TH OCTOBER 2017,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","LABJENIKS Q-LYTE 60  : K+, Na+, Cl-, Ca+, PH,TC02,Ref.S/N:0371221160089",1,,2906200,0 %,2906200,,Taxable,False,
+SO-000986,Fulfilled,Paid,Labcrest Ltd,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/8/2017 10:27:19 AM,"
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+
+Surplus N113,363.75",,11/8/2017 10:31:00 AM,11/8/2017 10:31:00 AM,11/23/2017 5:22:53 PM,82320,11/8/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,NORMAL,DURU CHINWE,,"CORTISOL, PK ",pk EXP DATE:2018/6,1,packs,40320,0 %,40320,,Taxable,False,
+SO-000986,Fulfilled,Paid,Labcrest Ltd,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,,NEAR SKYE BANK,,Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/8/2017 10:27:19 AM,"
+
+Paid N1,700,000.00 (i.e. Balance of # 922 plus pmt for # 924,954 & 986)
+
+Surplus N113,363.75",,11/8/2017 10:31:00 AM,11/8/2017 10:31:00 AM,11/23/2017 5:22:53 PM,82320,11/8/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,NORMAL,DURU CHINWE,,"CA 125,  PK ","CA-125, 74093 EXP DATE:2018/6",1,packs,42000,0 %,42000,,Taxable,False,
+SO-000987,Fulfilled,Paid,REDDINGTON HOSPITAL,MRS CHI,8037201919,,12 IDOWU MARTINS STREET,,VICTORIA ISLAND,Lagos,Nigeria,,,,12 IDOWU MARTINS STREET,,VICTORIA ISLAND,Lagos,Nigeria,,,NGN,1,,11/8/2017 12:00:00 AM,,,11/8/2017 1:24:22 PM,11/8/2017 1:24:22 PM,7/20/2018 12:43:48 PM,160000,10/14/2017 12:00:00 AM,,"DCL Laboratory Products Ltd, Lagos, Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,NET0,"Access Bank, First Bank",No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,200,pcs.,800,0 %,160000,,Taxable,False,
+SO-000988,Fulfilled,Paid,NONSO MADUKA,9097436136,,,LAGOS,,,,,,,,LAGOS,,,,,,,NGN,1,,11/8/2017 3:28:39 PM,,2382.82,11/8/2017 3:39:18 PM,11/8/2017 3:39:18 PM,11/9/2017 4:39:39 PM,60000,11/8/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Chinyere Nwosu,,"DEPROTEIN SOLUTION, PKS ",DEPROTEIN SOLUTION.Exp 2018-12-14,1,pcs.,57617.18,0 %,57617.18,,Taxable,False,
+SO-000989,Fulfilled,Uninvoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,,11/8/2017 4:52:02 PM,,,,,,0,11/8/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Repair,,No Tax,0,0,False,,,True,True,REPAIR,MUSTAPHA JAFARU,,"SODIUM ELECTRODE, PC ",S/N:82B171016,1,,166000,0 %,166000,,Taxable,False,
+SO-000990,Fulfilled,Paid,82 DIVISION MEDICAL CENTER ENUGU,HEAD OF DEPARTMENT LAB,9095202548,,82 DIVISION BARRACKS ,,ENUGU,ENUGU,NIGERIA,,,,82 DIVISION BARRACKS ,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/9/2017 8:33:36 AM,,,11/9/2017 8:42:49 AM,,11/10/2017 9:59:25 AM,148296.88,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML",1,packs,70515.63,0 %,70515.63,,Taxable,False,
+SO-000990,Fulfilled,Paid,82 DIVISION MEDICAL CENTER ENUGU,HEAD OF DEPARTMENT LAB,9095202548,,82 DIVISION BARRACKS ,,ENUGU,ENUGU,NIGERIA,,,,82 DIVISION BARRACKS ,,ENUGU,ENUGU,NIGERIA,,,NGN,1,,11/9/2017 8:33:36 AM,,,11/9/2017 8:42:49 AM,,11/10/2017 9:59:25 AM,148296.88,,,"DCL Laboratory Products Ltd, Enugu, Nigeria","DCL Laboratory Products Ltd, Enugu",Normal Price,,,No Tax,0,0,False,,,True,True,,,,"ELITROL II,  10X5 ML ","ELITROL II, CONT-0160, 10X5 ML",1,,77781.25,0 %,77781.25,,Taxable,False,
+SO-000991,Fulfilled,Paid,Defence Headquarter Medical Centre Mogadishu cantonment,MR UMORU,8088601033,,Mogadishu cantonment Abuja,Mogadishu Cantonment Abuja,FCT,FCT,Nigeria,234,,,Mogadishu cantonment Abuja,Mogadishu Cantonment Abuja,FCT,FCT,Nigeria,234,,NGN,1,,11/9/2017 9:24:53 AM,,,11/9/2017 9:56:33 AM,11/9/2017 9:56:33 AM,11/10/2017 11:35:20 AM,40851.56,11/9/2017 12:00:00 AM,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,Chinyere Nwosu,,"HDL CHOLESTEROL DIRECT 2G SL, 1 X 80 ML ","HDL Cholesterol Direct 2G SL, HDLL-0380, 1 x 80 ml, EXP:2018-10",1,,40851.56,0 %,40851.56,,Taxable,False,
+SO-000992,Fulfilled,Paid,Mrs Chioma Anyanwu,,7065555678,,DCL Laboratory Products Ltd,,Abuja,FCT,Nigeria,,,,DCL Laboratory Products Ltd,,Abuja,FCT,Nigeria,,,NGN,1,,11/9/2017 1:17:30 PM,,,,11/9/2017 12:00:00 AM,,0,11/9/2017 12:00:00 AM,,Chinyere Nwosu,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,SANITAS BLOOD PRESSURE MONITOR,,1,,0,0 %,0,,Taxable,False,
+SO-000993,Fulfilled,Paid,MECURE HEALTH CARE LTD,Chidi Ogbonna,7063629859,Ochidi@dcllabx.com,"Plot No. 6, Block H, Oshodi Industrial Scheme,",,Lagos,Lagos,Nigeria,1,,,"Plot No. 6, Block H, Oshodi Industrial Scheme,",,Lagos,Lagos,Nigeria,1,,NGN,1,,11/9/2017 2:13:00 PM,,,11/9/2017 2:14:09 PM,,2/9/2018 1:23:04 PM,121880,11/9/2017 12:00:00 AM,1162,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,,No Tax,0,0,False,,,True,True,,,08-11-2017,"VACUTAINER SST 5 ML, 5ML  100PCS/PK ","VACUTAINER SST 5 ML, 5ML  100PCS/PK ",10,packs,12188,0 %,121880,,Taxable,False,
+SO-000995,Fulfilled,Paid,ELECTROMEDIX LTD,Paul Ukachi,9098735035,emedixng@gmail.com,,,Lagos,Lagos,Nigeria,,,,,,Lagos,Lagos,Nigeria,,,NGN,1,,11/9/2017 5:11:56 PM,,,,11/9/2017 12:00:00 AM,11/16/2017 10:37:12 AM,12962.5,,,"DCL Laboratory Products Ltd, Lagos Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,,Bank Deposit,No Tax,0,0,False,,,True,True,,,,"GLUCOSE PAP SL+STD, 4X250  ML ","4X250  ML, GPSL-0707",1,,12962.5,0 %,12962.5,,Taxable,False,
+SO-000996,Fulfilled,Paid,REDDINGTON HOSPITAL,MRS CHI,8037201919,,12 IDOWU MARTINS STREET,,VICTORIA ISLAND,Lagos,Nigeria,,,,12 IDOWU MARTINS STREET,,VICTORIA ISLAND,Lagos,Nigeria,,,NGN,1,,11/10/2017 12:00:00 AM,,,11/10/2017 12:07:15 PM,11/10/2017 12:07:15 PM,7/20/2018 12:44:53 PM,320000,11/10/2017 12:00:00 AM,,"DCL Laboratory Products Ltd, Lagos, Nigeria","DCL Laboratory Products Ltd, Plot 5 Block 4 Etal Avenue off Kudirat Abiola Way by NNPC Lagos NG",Normal Price,NET0,Access Bank,No Tax,0,0,False,,,True,True,,,,"MULTISURE HIV RAPID TEST, 20TESTS ",MULTI SURE HIV RAPID TEST KIT 20 TESTS,400,pcs.,800,0 %,320000,,Taxable,False,
+SO-000997,Fulfilled,Uninvoiced,UNIVERSITY OF ABUJA TEACHING HOSPITAL,MR PAUL,8035891795,info@uath.gov.ng,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,,University of Abuja Teaching Hospital,"P.M.B. 228, Gwagwalada",Gwagwalada,ABUJA,NIGERIA,,,NGN,1,0 %,11/10/2017 12:41:26 PM,,,,,,0,11/10/2017 12:00:00 AM,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,Repair,,No Tax,0,0,False,,,True,True,REPAIR/EMERGENCY SUPPLY,Duru Chinwendu,,"POTASSIUM ELECTRODE, PC  ",LABJENIK POTASSIUM ELECTRODE.S/N 81B171014,1,,166000,0 %,166000,,Taxable,False,
+SO-000998,Fulfilled,Paid,BODY AFFAIRS,BODY AFFAIRS,8151801994,info@bodyaffairs.com.ng,"Plot 1349 Ahmadu Bello Way, Garki II,",1349 AHMADU BELLO WAY,GARKI II,ABUJA,NIGERIA,,,,"Plot 1349 Ahmadu Bello Way, Garki II,",1349 AHMADU BELLO WAY,GARKI II,ABUJA,NIGERIA,,,NGN,1,,11/10/2017 1:54:57 PM,,,11/10/2017 1:57:24 PM,11/10/2017 1:57:24 PM,11/11/2017 3:01:47 PM,155500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,Mr Andrew Alaefule,,"AEROBIC CULTURE BOTTLE, ","50btl/ctn, 442192, EXP:2017-12",25,btl,2880,0 %,72000,,Taxable,False,
+SO-000998,Fulfilled,Paid,BODY AFFAIRS,BODY AFFAIRS,8151801994,info@bodyaffairs.com.ng,"Plot 1349 Ahmadu Bello Way, Garki II,",1349 AHMADU BELLO WAY,GARKI II,ABUJA,NIGERIA,,,,"Plot 1349 Ahmadu Bello Way, Garki II,",1349 AHMADU BELLO WAY,GARKI II,ABUJA,NIGERIA,,,NGN,1,,11/10/2017 1:54:57 PM,,,11/10/2017 1:57:24 PM,11/10/2017 1:57:24 PM,11/11/2017 3:01:47 PM,155500,,,Bright Odoemelam,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,,Mr Andrew Alaefule,,PEDIATIC CULTURE BOTTLE,"50btls/ctn, 442194, EXP:2017-11",25,btl,3340,0 %,83500,,Taxable,False,
+SO-001000,Fulfilled,Paid,UNIVERSITY OF CALABAR TEACHING HOSPITAL / CHEM. PATH DEPT.,DR EFOBI HENRY A  DEPT OF CHEMICAL PATHOLOGY UCTH CALABAR,,,"Moor Road, Near Government House, Calabar.","Etta Agbor Layout, Court Road",CALABAR,CROSS RIVER,NIGERIA,,,,"Moor Road, Near Government House, Calabar.","Etta Agbor Layout, Court Road",CALABAR,CROSS RIVER,NIGERIA,,,NGN,1,,5/18/2017 12:00:00 AM,original inflow invoice # 206,,11/10/2017 3:57:10 PM,11/10/2017 3:57:10 PM,12/4/2017 6:23:58 PM,621689.08,,,Chiamaka Ngurukem,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,NORMAL,,,Outstanding Invoices (Outstanding Payments),supply pf sundrie items ,1,,621689.08,0 %,621689.08,,Taxable,False,

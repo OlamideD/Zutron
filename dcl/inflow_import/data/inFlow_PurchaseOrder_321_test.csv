@@ -1,0 +1,601 @@
+OrderNumber,InventoryStatus,PaymentStatus,Vendor,ContactName,Phone,VendorAddress1,VendorAddress2,VendorCity,VendorState,VendorCountry,VendorPostalCode,VendorAddressRemarks,ShipToCompanyName,ShipToAddress1,ShipToAddress2,ShipToCity,ShipToState,ShipToCountry,ShipToPostalCode,ShipToAddressRemarks,CurrencyCode,ExchangeRate,NonVendorCost,OrderDate,OrderRemarks,Freight,DueDate,DatePaid,AmountPaid,RequestedShipDate,VendorOrderNumber,Location,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,VendorItemCode,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled
+PO-000321,Unfulfilled,Unpaid,SLEE medical GmbH,Maged Benjamin,+30 698 1105 202,"Lise-Meitner-Str. 11
+D-55129 Mainz",,,,Germany,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,2/15/2019 3:33:51 PM,"TERMS:
+
+PAYMENT: 100% PAYMENT IN ADVANCED.
+
+DELIVERY: 28DAYS AFTER DELIVERY.
+
+INCOTERMS: EXWORKS: 
+
+PREFFERED FORWADER: DWF Germany- DWF Air Service GmbH, 
+Mörfelder Strasse 111, D-65451
+Kelsterbach
+Phone: +49 (0) 6107-985835,
+Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+
+
+
+
+
+VIVIAN OPARA:
+SUPPLY CHAINA MANAGER",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,bank charges,,1,,50,0 %,,50,,Taxable,False
+PO-000321,Unfulfilled,Unpaid,SLEE medical GmbH,Maged Benjamin,+30 698 1105 202,"Lise-Meitner-Str. 11
+D-55129 Mainz",,,,Germany,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,2/15/2019 3:33:51 PM,"TERMS:
+
+PAYMENT: 100% PAYMENT IN ADVANCED.
+
+DELIVERY: 28DAYS AFTER DELIVERY.
+
+INCOTERMS: EXWORKS: 
+
+PREFFERED FORWADER: DWF Germany- DWF Air Service GmbH, 
+Mörfelder Strasse 111, D-65451
+Kelsterbach
+Phone: +49 (0) 6107-985835,
+Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+
+
+
+
+
+VIVIAN OPARA:
+SUPPLY CHAINA MANAGER",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,Packing and handling,,1,,20,0 %,,20,,Taxable,False
+PO-000321,Unfulfilled,Unpaid,SLEE medical GmbH,Maged Benjamin,+30 698 1105 202,"Lise-Meitner-Str. 11
+D-55129 Mainz",,,,Germany,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,2/15/2019 3:33:51 PM,"TERMS:
+
+PAYMENT: 100% PAYMENT IN ADVANCED.
+
+DELIVERY: 28DAYS AFTER DELIVERY.
+
+INCOTERMS: EXWORKS: 
+
+PREFFERED FORWADER: DWF Germany- DWF Air Service GmbH, 
+Mörfelder Strasse 111, D-65451
+Kelsterbach
+Phone: +49 (0) 6107-985835,
+Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+
+
+
+
+
+VIVIAN OPARA:
+SUPPLY CHAINA MANAGER",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,Parafin Wax Pellet,Slee 1kgX50packs,56,,4.7,0 %,27122010,263.2,,Taxable,False
+PO-000321,Unfulfilled,Unpaid,SLEE medical GmbH,Maged Benjamin,+30 698 1105 202,"Lise-Meitner-Str. 11
+D-55129 Mainz",,,,Germany,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,2/15/2019 3:33:51 PM,"TERMS:
+
+PAYMENT: 100% PAYMENT IN ADVANCED.
+
+DELIVERY: 28DAYS AFTER DELIVERY.
+
+INCOTERMS: EXWORKS: 
+
+PREFFERED FORWADER: DWF Germany- DWF Air Service GmbH, 
+Mörfelder Strasse 111, D-65451
+Kelsterbach
+Phone: +49 (0) 6107-985835,
+Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+
+
+
+
+
+VIVIAN OPARA:
+SUPPLY CHAINA MANAGER",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,Disposable blades,,100,,52.5,0 %,,5250,,Taxable,False
+PO-000322,Unfulfilled,Unpaid,DWF AIR SERVICE,Janine Lobig,+49 (0) 6107-985835,Morfelder Strasse 111,D-65451 Kelsterbach,,,,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,2/18/2019 8:40:27 AM,,,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,INVOICE 191452,INVOICE 191452 DATED 31/1/2019,1,,1277.85,0 %,,1277.85,,Taxable,False
+PO-000323,Unfulfilled,Unpaid,Biogenex Laboraiories inc.,Roopa S,917330999626,49026 Milmont Drive,"Fremont, CA 94538, ",,,USA,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,USD,0.0023,,2/19/2019 4:14:58 PM,"TERM:
+
+Payment: 100% advanced payment.
+
+delivery: within 14 days of payment confirmtion.
+
+Terms of delivery: CIP Lagos airport.
+
+
+
+
+Vivian Opara,
+Supply Chain Manager.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,"SUPER SENSITIVEPOLYMER HRPIHC DETECTION SYSTEM, 0 ","SUPER SENSITIVEPOLYMER HRPIHC DETECTION SYSTEM, QD400-60KE",1,,220,0 %,QD400-60KE,220,,Taxable,False
+PO-000323,Unfulfilled,Unpaid,Biogenex Laboraiories inc.,Roopa S,917330999626,49026 Milmont Drive,"Fremont, CA 94538, ",,,USA,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,USD,0.0023,,2/19/2019 4:14:58 PM,"TERM:
+
+Payment: 100% advanced payment.
+
+delivery: within 14 days of payment confirmtion.
+
+Terms of delivery: CIP Lagos airport.
+
+
+
+
+Vivian Opara,
+Supply Chain Manager.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,ANTI ER ,"Anti-estrogen receptor alpha antibody 
+Volume: 0.5ml(CONC)
+",1,,105,0 %,MU368-5UCE,105,,Taxable,False
+PO-000323,Unfulfilled,Unpaid,Biogenex Laboraiories inc.,Roopa S,917330999626,49026 Milmont Drive,"Fremont, CA 94538, ",,,USA,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,USD,0.0023,,2/19/2019 4:14:58 PM,"TERM:
+
+Payment: 100% advanced payment.
+
+delivery: within 14 days of payment confirmtion.
+
+Terms of delivery: CIP Lagos airport.
+
+
+
+
+Vivian Opara,
+Supply Chain Manager.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,False,True,Anti Her2,"Anti-ErbB2 antibody 
+Make: Biogenex 
+Volume: 0.5ml(conc) 
+",1,,154,0 %,NU726-5UCE,154,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"HDL CHOLESTEROL, 3X10 ML ","HDL Cholesterol, HDLC-0060, 3x10 ml",20,,12.97,0 %,HDLC-0060,259.4,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CREATININE PAP, 8X28 ML  ","Creatinine PAP, CRSL 0250, 8X25 ML",20,,45968.63,0 %,CRSL 0250,919372.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CREATININE JAFFE, 4X250 ML ","Creatinine Jaffe, CRCO-0700, 4x250 ml",15,,11,0 %,CRCO-0700,165,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CREATININE JAFFE, 2X 125 ML + STD","Creatinine Jaffe, CRCO-0600, 2x 125 ml",15,,6,0 %,CRCO-0600,90,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"TOTAL PROTEIN PLUS, 2X125 ML ","TOTAL PROTEIN PLUS, PROB-0600, 2X125 ML",20,,6.3,0 %,PROB-0600,126,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"LDL CHOLESTEROL CALIBRATOR 2G, 1X1 ML ","LDL 2G Calibrator, LDLL-0011, 1x1 ml",25,,30406.5,0 %,LDLL-0011,760162.5,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"ELITROL I, 10X5 ML ","ELITROL I, CONT-0060, 10X5 ML",20,,54012.5,0 %,CONT-0060,1080250,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"ELITROL II,  10X5 ML ","ELITROL II, CONT-0160, 10X5 ML",20,,55825,0 %,CONT-0160,1116500,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"ISE CLEANER & CONDITONER, 6 X 8 ML + 3 X 25 ML ","ISE CLEANER & CONDITONER, ISCC-0280, 6 x 8 ml + 3 x 25 ml",10,,50976.56,0 %,ISCC-0280,509765.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True," LDH-L SL, 4 X 25 ML   ","LDH-L SL, LLSL-0230, 4 x 25 ml ",20,,15083.63,0 %,LLSL-0230,301672.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"ELICAL 2, 4X3 ML ","Multi Parameter calibrator (ELICAL) , CALI-0550, 4x3 ml",30,,50750,0 %,CALI-0550,1522500,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"AST / GOT SL, 4 X 62,5 ML   ","AST / GOT SL, ASSL-0430, 4 x 62,5 ml ",15,,9.01,0 %,ASSL-0430,135.15,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"ALT / GPT SL, 4 X 62,5   ML ","ALT / GPT SL, ALSL-0430, 4 x 62,5   ML",15,,8.77,0 %,ALSL-0430,131.55,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,TOTAL PROTEIN PLUS 12X20ML VTL ,                                                                                                                                                                                                                                                                                                        ,20,,13735.13,0 %,PROB 0250,274702.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"HBA1C CONTROL  L+H NEW, 4X0.5ML ","HbA1C CONTROL  L+H NEW, HBAC-0049, 4x0.5ml",10,,41596.88,0 %,HBAC-0049,415968.8,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"HBA1C CALIBRATOR SET 4 XO,5ML, 4X0. 5 ML ","HbA1c CALIBRATOR SET 4 xO,5ml, HBAC-0043, 4x0. 5 ml",10,,50731.88,0 %,HBAC-0043,507318.8,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CHLORIDE, 2X 125 ML ","Chloride, CHLO-0600 2x 125 ml ",10,,10059.38,0 %,CHLO-0600,100593.8,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"PHOSPHORUS,6 X 20 ML ","PHOSPHORUS, PHOS 0230,6 x 20 ml",10,,9928.88,0 %,PHOS 0230,99288.8,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"BILIRUBIN DIRECT 4+1 ,2X 125 ML ","Bilirubin Direct 4+1 BIDI-0600, 2x 125 ml",15,,7.08,0 %,BIDI-0600,106.2,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"BILIRUBIN TOTAL 4+1, 2X 125 ML  ","Bilirubin Total 4+1 BITO-0600, 2x 125 ml",15,,8.17,0 %,BITD-0600,122.55,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"HDL CHOLESTEROL  2G, 4 X 28 ML ","CHOLESTEROL HDL 2G, 4 x 28 ml",30,,49774.88,0 %,HDLL 0230,1493246.4,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,CHOLESTEROL LDL 2G LDLL-0230,CHOLESTEROL LDL 2G 4X28 ML,10,,105.32,0 %,LDLL-0230,1053.2,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,CHOLESTEROL SL 12X20 ML  CHSL 0250,CHOLESTEROL SL 12X20 ML ,20,,17.28,0 %,CHSL 0250,345.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,GLUCOSE HK SL 8X25 ML  GHSL 0250,GLUCOSE HK SL 8X25 ML  ,10,,24.66,0 %,GHSL 0250,246.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,UREA UV SL  8X25 ML URSL 0250,UREA UV SL  8X25 ML,20,,23.29,0 %,URSL 0250,465.8,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,TRIGL MONOSL12X20 ML TGML 0250 (Stocked Product),TRIGL MONOSL12X20 ML ,10,,0,0 %, TGML 0250,0,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,CK-MB Control    4X3 ML CKMB-0900,CK-MB Control    4X3 ML ,6,,0,0 %,CKMB-0900,0,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True, GAMMA GT SL (Stocked Product),GAMMA GT SL 8x25 ml  GASL 0250,20,,24.43,0 %,GASL-0250,488.6,,Taxable,False
+PO-201704005,Fulfilled,Unpaid,Elitech Distribution (Reagents),Odile Chandavoine,+33 2 33 81 21 10,"Zone Industrill,61500 SEES- France",,,,France,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,NGN,1,,4/5/2017 12:00:00 AM,"TERMS:
+Preferred Maunfacturer: Elitechgroup
+Country of  maunfacturer: EU.  Preferred Currency: Euro
+Payment Plan: 100% payment with 30 days of invoice
+Perferred Delivery plan: Within 10 days of order.  
+Perferred Forwarder: Elitech forwarder
+
+
+Order made by
+
+
+
+Opara Vivian
+Head Supply chain
+DCL Laboratory Products.
+",,,,0,5/18/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,URIC ACID MONO SL 6X100 ML AUML-0500,6X100ML AUML-0500,10,,20.89,0 %,AMUL-0500,208.9,,Taxable,False

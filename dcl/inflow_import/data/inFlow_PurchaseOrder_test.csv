@@ -1,0 +1,702 @@
+OrderNumber,InventoryStatus,PaymentStatus,Vendor,ContactName,Phone,VendorAddress1,VendorAddress2,VendorCity,VendorState,VendorCountry,VendorPostalCode,VendorAddressRemarks,ShipToCompanyName,ShipToAddress1,ShipToAddress2,ShipToCity,ShipToState,ShipToCountry,ShipToPostalCode,ShipToAddressRemarks,CurrencyCode,ExchangeRate,NonVendorCost,OrderDate,OrderRemarks,Freight,DueDate,DatePaid,AmountPaid,RequestedShipDate,VendorOrderNumber,Location,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,VendorItemCode,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,4ML VACUTAINER EDTA TUBE,4 ML EDTA,10,,0,0 %,42012,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,6ML VACUTAINER LITHIUM HEPARIN  ,6 ML LITHIUM HEPARIN,7,,0,0 %,43316,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,5ML VACUTAINER SERUM SEPERATOR TUBE,5ML SST,7,,0,0 %,43726,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,4ML VACUTAINER FLOURIDE OXALATE,4 ML FX,5,,0,0 %,42212,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,MULTI SAMPLE NEEDLE 21G,21G MULTISAMPLE NEEDLE,1,,0,0 %,45203,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,BLOOD COLLECTION SET 21G,21G BLOOD COLLECTION SET,1,,0,0 %,45601,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,PLAIN VACUTAINER TUBES,PLAIN VACUTAINER,10,,0,0 %,43616,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,MICROTAINER EDTA,MICROTAINER EDTA,1,,0,0 %,40001,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,MICROTAINER LH,MICROTAINER LH,1,,0,0 %,40301,0,,Taxable,False
+201704031,Unfulfilled,Unpaid,F.L. MEDICALs.r.l. Unipersonale,Cristina APICELLA,Phone +39 049 5211475,"Via Enrico Mattei, 20 35038 Torreglia (Padova) - Italy",,Torreglia,,Itally,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,FCT,Nigeria,,,EUR,0.0019,,4/6/2017 11:34:15 AM,"TERMS:
+
+Preferred Manufacturer: FL MEDICAL 
+Preferred Currency: EURO
+Invoice: CFR Lagos Airport
+Payment Plan: 100% payment in advance 
+Perferred Delivery plan: Within 7 days of order confirmation. 
+Perferred Forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19, 
+E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Torreglia (Padova) - Italy
+
+Order made by: 
+
+
+
+
+
+
+Opara Vivian
+Head Supply Chain, 
+DCL Laboratory Products Ltd, Abuja - Nigeria.
+",,,,0,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,5ML VACUTAINER ESR TUBE,5ML VACUTAINER ESR TUBE,2,,0,0 %,42510,0,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CHOLESTEROL TOTAL SL WITH STANDARD, 2X100 ",CHOLESTEROL TOTAL SL with standard 2x100ml,20,,8.19,0 %,35,163.8,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CONTROL PLASMA N, 5X1ML ",Control Plasma N,20,,4.2,0 %,1007,84,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"HDL CHOLESTEROL, 2X100ML ",HDL Cholesterol,20,,6.66,0 %,56,133.2,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"TRIGLYCERIDES, 2X100ML ",2x100ml,20,,16.2,0 %,73,324,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"URIC ACID, 2X100ML ",2x100ml,10,,8.22,0 %,4050,82.2,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"APTT, 12X4ML ",12x4ml,20,,28.5,0 %,1002/12,570,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"THROMBOPLASTIN, 12X4ML ",12x4ml,20,,28.5,0 %,1001/12,570,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"ALKALINE PHOSPHATASE, 2X50ML ",2x50ml,30,,5.48,0 %,4096,164.4,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"CREATININE, 4X100ML ",4x100 ml,20,,6.4,0 %,66,128,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,Urea 4x100ML,4x100,20,,13.53,0 %,4164,270.6,,Taxable,False
+PO-000004,Fulfilled,Paid,Giesse Diagnostics,"Margherita Matichecchia
+Isabel Patti",39.0774051101,"Via Enrico Fermi, 3 (Z.I. Via Tiburtina
+Km.18,300)","00012 GUIDONIA MONTECELIO
+(RM)-ITALY",,,Italy,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/20/2017 10:12:12 AM,"Required Invoice: C&F Lagos Airport
+Required delivery Mode: Air Freight
+Payment Mode: 100% payment before shipment
+Required delivery Plan: Within 3 days of advanced payment confirmation.
+
+
+
+
+
+ Opara Vivian
+Head Operations/store
+DCL Laboratory Products",,,8/31/2017 9:04:59 AM,2578.7,5/20/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,CHEMISTRY CALIBRATOR,6002/6  6X3 ML,3,,29.5,0 %,6002/2,88.5,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 18 DILUENT 10 L, 10 L ","MYTHIC 18 DILUENT 10 L, HM18-009-10, 10L",400,,11.5,0 %,HM 18-009-10,4600,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 18 CLEANING SOLUTION, 1L ","Mythic 18 CLEANING SOLUTION, HM18-007-1",300,btl,8,0 %,HM 18-007-1,2400,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,MYTHIC 18 LYSE 0.5L ,"Mythic 18 Cyanide free  Lytic Solution 0.5L, HM18-008-05",90,btl,16,0 %,HM 18-008-05,1440,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC FLUSH-CLEANER 0.25L, 0.25 L ","Mythic 18-22 Flush-Cleaner 0.25L, HM18-011-025, ",300,,4,0 %,HM 18-011-025,1200,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 22 DILUENT 10L, 10L ",HM22-003-10 ,300,,20.5,0 %,HM22-003-10 ,6150,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 22 CLEANING SOLUTION 1L, 1L","MYTHIC 22 Cleaning solution 1L, HM22-001-1,",300,,10,0 %,HM22-001-1,3000,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,MYTHIC 22 ONLYONE LYSE ,0.5L  ,300,,36,0 %,HM-22-002-1,10800,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 22 FULLY AUTOMATED HEMATOLOGY ANALYZER ,  ","MYTHIC 22 ANALYZER, M22OT",2,,7400,0 %,M 22 OT,14800,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 18 FULLY AUTOMATED HEMATOLOGY ANALYSER, (Stocked Product)","MYTHIC 18 ANALYSER, M18OT, ",3,,3700,0 %,M 18 OT,11100,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 18 COLOR CPU BOARD, UNIT ","Mythic 18 Color CPU Board, 205-1003-01",1,,1079.5,0 %,205-1003-01,1079.5,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"MYTHIC 18-22 COLOR IHM BOARD WITH SCREEN,  UNIT ","Mythic 18-22 Color IHM Board with screen, 205-1002-02",1,,480,0 %,205-1002-02,480,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"LATEX FOR RBC /PLT, PC ",latex for RBC/PLT,5,,40,0 %,465-0110-10,200,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"LATEX FOR WBC AND OPTICAL ADJUSTMENT, PC",latex for WBC/OPT,5,,40,0 %,,200,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,"G-CAL TUBE, BTL ",G-CAL TUBE 2.5ML,3,,10.3,0 %,G-CAL,30.9,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,HEATING MODULE UNIT,005-1002-04 02,2,,0,0 %,005-1002-04 02,0,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,Power supply cable,,15,,56.5,0 %,,847.5,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,ADJUSTABLE TORQUE DRIVER 30-120CNm,30-120 CNM,2,,99,0 %,700-7701-22,198,,Taxable,False
+PO-000005,Fulfilled,Unpaid,Orphee SA,Filip Ławnicki,"+48 22 751 79 10 (Ext.123)
+","19, CH.DU champ des filles
+1228 Plan –Les-Ouates",,,"Geneva
+",Switzerland.,,,DCL Laboratory Products Ltd,"DCL House, Plot 1299, Fumilayo Ransome Kuti Road","Area 3, P.M.B 690 Garki",Abuja,,Nigeria,PMB 690,,EUR,0.0019,,4/21/2017 1:45:20 PM,"Required invoice: C&F Lagos airport 
+Payment: Within 30 days of shipment 
+Preferred forwarder: DWF Germany- DWF Air Service GmbH, Mörfelder Strasse 111, D-65451 Kelsterbach
+Phone: +49 (0) 6107-985835, Fax: +49 (0) 6107-9858-19,  E-Mail: J.loebig@dwf-airservice.de
+INCOTERMS: FCA Geneva Switzerland.
+
+Yours Truly,
+
+
+
+
+ Opara Vivian
+Head Supply chain Dept.
+DCL Laboratory Products Ltd.",,,1/29/2018 12:35:21 PM,0,6/30/2017 12:00:00 AM,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,No Tax,0,0,False,,,True,True,MYTHIC 22 OT/CT CPU BOARD,Mythic 22 OT/CT CPU board,1,,1292,0 %,205-1002-01 131,1292,,Taxable,False

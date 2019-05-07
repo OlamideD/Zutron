@@ -1,0 +1,112 @@
+<div class="letter-head">
+
+    <div class="row">
+        <div class="col-xs-8"><img src="assets/dcl/images/header.png" width="400px"></div>
+        <br>
+        <br>
+        <br>
+        <div class="col-xs-4" align="right">
+            <div class="row">
+                <div class="col-xs-12" align="right" style="height: 30px;">
+                    <h5>DELIVERY NOTE</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-5" align="right" style="height: 25px; border-left:1px solid black; border-top:1px solid black;">
+                    <h6>Invoice #</h6>
+                </div>
+                <div class="col-xs-7" align="right" style="height: 25px; border-right:1px solid black; border-top:1px solid black;">
+                    <h6>{{ doc.name }}</h6>
+                </div>
+            </div>
+              <div class="row">
+                <div class="col-xs-5" align="right" style="height: 25px;  border-left:1px solid black; border-bottom: 1px solid black;">
+                    <h6>Date</h6>
+                </div>
+                <div class="col-xs-7" align="right" style="height: 25px; border-bottom:1px solid black; border-right:1px solid black;">
+                    <h6>{{ doc.posting_date }}</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<tr style="font-size:11px;">
+
+    <div class="row">
+        <div class="col-xs-2" align="left"><p>Billing Address : </p></div>
+        <div class="col-xs-4" align="left"><p><b>{{ doc.address_display }}</b></p></div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-2" align="left"><p>Contact : </p></div>
+        <div class="col-xs-4" align="left"><p><b>{{ doc.contact_display }}</b></p></div>
+    </div>
+
+
+    <table class="table" border="1" width="100%">
+        <tr>
+            <th>
+            </th>
+
+            <th>
+                <p>Item Code</p>
+            </th>
+            <th>
+                <p>Item Name</p>
+            </th>
+            <th>
+                <p>Qty</p>
+            </th>
+        </tr>
+
+        {% for item in doc.items|sort(attribute='item_code') %}
+        <tr>
+            <td><p>{{ loop.index0 + 1 }}</p></td>
+            <td><p>{{ item.item_code }}</p></td>
+            <td><p>{{ item.description }}</p></td>
+            <td><p>{{ item.qty | int }}</p></td>
+        </tr>
+
+
+        {% endfor %}
+
+
+    </table>
+    <br><br>
+    <!--<div class="row">-->
+    <!--<div class="col-xs-8" align="right">-->
+    <!--</div>-->
+    <!--<div class="col-xs-2" align="right">-->
+    <!--<b><p>Grand Total:</p></b>-->
+    <!--</div>-->
+    <!--<div class="col-xs-2" align="right">-->
+    <!--<p> {{ doc.get_formatted("grand_total") }}</p>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <div id="footer-html" class="visible-pdf">
+        <div class="letter-head-footer">
+
+            <center>
+                <p>
+                    BANK DETAILS<br>
+                    Access Bank Plc Utako Branch Abuja<br>
+                    Sort Code: 044081894<br>
+                    Account#: 0050087251 (naira).<br>
+                    Beneficiary name: DCL Laboratory Products Ltd<br>
+                    -----</p>
+            </center>
+            <br><br><br>
+
+
+            <center><p>Confirmed by (Customer): ___________________
+                Confirmed by (DCL Laboratory Products Ltd):
+                _________________</p></center>
+        </div>
+        <p class="text-center small page-number visible-pdf">
+            {{ _("Page {0} of {1}").format('<span class="page"></span>', '<span class="topage"></span>') }}
+        </p>
+    </div>

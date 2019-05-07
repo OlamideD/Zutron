@@ -1,0 +1,279 @@
+ <center>
+
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+<div class="letter-head"><img src="assets/dcl/images/header.png" width="500px"></div>
+
+     <h4>QUALITY MANAGEMENT SYSTEM</h4>
+     <h3>SUPPLY CHAIN PERFORMANCE APPRAISAL FORM</h3>
+     (Document No. DCL SCA-IDN-FOM-HRS-090718-05)
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+          <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+          <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+          <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+          <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+          <br>
+     email: info@dcllabx.com<br>
+     website: www.dcllabx.com
+ </center>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="page-break"></div>
+
+ <br>
+ <br>
+ <br>
+ <table border="1" width="100%">
+     <tr>
+         <td colspan="2">
+                Name:
+         </td>
+     </tr>
+      <tr>
+         <td>
+                Position:
+         </td>
+         <td>
+                Period covered:
+         </td>
+     </tr>
+      <tr>
+         <td>
+                Date:
+         </td>
+         <td>
+                Appraiser:
+         </td>
+     </tr>
+ </table>
+
+ <br>
+ <br>
+ <br>
+
+ <p>
+<b>APPRAISAL RATING:</b> Use the following rating in your actual performance,<br>
+<b>1. Not yet competent, 2. Developing competence, 3. Competent as required,<br>
+4. Competent above required competence, 5. Mastery.</b>
+</p>
+
+ <table border="1" width="100%">
+        <tr>
+<td width="60%">
+        <b>Section A</b>
+</td>
+            <td colspan="4">
+                <b>ACTUAL PERFORMANCE</b>
+            </td>
+        </tr>
+     <tr>
+         <td>
+
+         </td>
+         <td>
+            Employee Rating
+         </td>
+         <td>
+             Supver Rating
+         </td>
+         <td>
+            Mgt Rating
+         </td>
+         <td>
+             Average Rating
+         </td>
+     </tr>
+     {%- for row in doc.kpi -%}
+     <tr>
+          <td>
+                {{row.tasks}}
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+     </tr>
+     {%- endfor -%}
+ </table>
+<br>
+<br>
+<br>
+<br>
+
+ <table border="1" width="100%">
+        <tr>
+<td width="100%">
+        <b>Section B</b>
+</td>
+
+        </tr>
+     {%- for row in doc.remarks -%}
+     <tr>
+          <td>
+                {{row.topic}}
+         </td>
+     </tr>
+     {%- endfor -%}
+ </table>
+
+<br>
+<br>
+<br>
+<br>
+ <p>
+     Employee's Comments: _________________________________________
+     _____________________________________________________________
+     ______________________________
+ </p>
+ <p>
+     Employee's Signature: ______________________
+ </p>
+
+ <br>
+ <br>
+ <p>
+     Supervisor's General Remarks/Comments: _________________________________________
+     _____________________________________________________________
+     ______________________________
+ </p>
+  <p>
+     Supervisor Name and Signature: ______________________
+ </p>
+ <br>
+ <br>
+ <p>
+     Management General Comments: _________________________________________
+     _____________________________________________________________
+     ______________________________
+ </p>
+ <p>
+    MGT Name and Signature: ______________________
+ </p>
+ <br>
+ <br>
+ <br>
+ <center>
+     <b>
+ <table width="70%">
+     <tr>
+         <td width="80%">PERFORMANCE COMPETENCIES</td>
+         <td width="20%">%SCORE</td>
+         </tr>
+     <tr>
+         <td>Unsatisfactory</td>
+         <td><40</td>
+         </tr>
+     <tr>
+         <td>Needs improvement</td>
+         <td>50%</td>
+     </tr>
+     <tr>
+         <td>Meets job requirements</td>
+         <td>65%</td>
+     </tr>
+     <tr>
+         <td>Exceeds job requirements</td>
+         <td>75%</td>
+     </tr>
+     <tr>
+         <td>Outstanding</td>
+         <td>>80%</td>
+     </tr>
+ </table>
+         </b>
+     </center>
+
+ <br>
+ <br>
+ <br>
+ <center>
+     <u>
+     <b>Rating Standards</b></u>
+ </center>
+ <br>
+ <br>
+ <br>
+
+ <center>
+ <table width="100%">
+     <tr>
+         <td width="30%"><b>1. Unsatisfactory</b></td>
+         <td width="70%">Work performance is inadequate and inferior to the standards of performance
+required for the position. Performance at this level cannot be allowed to
+continue.</td>
+         </tr>
+     <tr>
+         <td><b>2. Needs improvement</b></td>
+         <td>Work performance does not consistently meet the standards of
+performance for the position. Serious effort is needed to improve
+performance.</td>
+     </tr>
+     <tr>
+         <td><b>3. Meets job requirements</b></td>
+         <td>Work performance consistently meets the standards of
+performance for the position.</td>
+     </tr>
+     <tr>
+         <td><b>4. Exceeds job requirements</b></td>
+         <td>Work performance is consistently above the standard
+performance for the position.</td>
+     </tr>
+     <tr>
+         <td><b>5. Outstanding</b></td>
+         <td>Work performance consistently superior to standards required for
+the job.</td>
+     </tr>
+ </table>
+     </center>
+
+
+ <div id="footer-html" class="has-variables">
+  <p class="text-center small page-number visible-pdf">
+			{{ _("Page {0} of {1}").format('<span class="page"></span>', '<span class="topage"></span>') }}
+
+  DCL SCA-IDN-FOM-HRS-090718-05
+
+  </p>
+</div>

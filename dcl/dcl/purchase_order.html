@@ -1,0 +1,113 @@
+<style>
+	p {
+	  font-family: 'Open Sans', sans-serif;
+	}
+
+		h1 {
+	  font-family: 'Open Sans', sans-serif;
+	}
+
+			h3 {
+	  font-family: 'Open Sans', sans-serif;
+	}
+
+		h4 {
+	  font-family: 'Open Sans', sans-serif;
+	}
+
+</style>
+
+
+ <div class="letter-head"><img src="assets/dcl/images/header.png" width="500px"></div>
+
+ <tr style="font-size:11px;">
+
+	 <div class="row">
+		 <div class="col-xs-12" align="right"> <h4>PURCHASE ORDER</h4>
+		 <h3>{{ doc.name }}</h3></div>
+</div>
+	 <br>
+	 <hr>
+
+
+	 	 <div class="row">
+		 <div class="col-xs-6" align="left"><b> <p>Supplier Name: {{ doc.supplier }}</p></b></div>
+			  <div class="col-xs-6" align="left"><p> <b>Date: </b>{{ doc.transaction_date }}</p></div>
+</div>
+	 <br>
+	 <br>
+
+
+<table class="table" border="1" width="100%">
+<tr>
+	<th>
+	</th>
+
+		<th>
+		<p>Item Code</p>
+	</th>
+	<th>
+		<p>Item Name</p>
+	</th>
+
+	<th>
+		<p>Price</p>
+	</th>
+		<th>
+		<p>Qty</p>
+	</th>
+	<th>
+		<p>Amount</p>
+	</th>
+</tr>
+
+{% for item in doc.items|sort(attribute='item_code') %}
+	<tr>
+		<td><p>{{ loop.index0 + 1 }}</p></td>
+		<td><p>{{ item.item_code }}</p></td>
+		<td><p>{{ item.description }}</p></td>
+		<td><p>{{ item.get_formatted("rate", doc) }}</p></td>
+		<td><p>{{ item.qty | int }}</p></td>
+		<td><p>{{ item.get_formatted("amount", doc) }} </p></td>
+	</tr>
+
+
+{% endfor %}
+
+
+</table>
+<br><br>
+	 <div class="row">
+	 <div class="col-xs-8" align="right">
+		 </div>
+		 <div class="col-xs-2" align="right">
+		 <b><p>Grand Total:</p></b>
+		 </div>
+		  <div class="col-xs-2" align="right">
+			 <p> {{ doc.get_formatted("grand_total") }}</p>
+		 </div>
+		 </div>
+
+<div id="footer-html" class="visible-pdf">
+		<div class="letter-head-footer">
+
+            <center>
+                <p>
+BANK DETAILS<br>
+Access Bank Plc Utako Branch Abuja<br>
+Sort Code: 044081894<br>
+Account#: 0050087251 (naira).<br>
+Beneficiary name: DCL Laboratory Products Ltd<br>
+-----</p>
+                </center>
+<br><br><br>
+
+
+			<center><p>Confirmed by (Customer): ___________________
+Confirmed by (DCL Laboratory Products Ltd):	<br>
+_________________</p></center>
+		</div>
+		<p class="text-center small page-number visible-pdf">
+			{{ _("Page {0} of {1}").format('<span class="page"></span>', '<span class="topage"></span>') }}
+		</p>
+	</div>

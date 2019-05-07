@@ -1,0 +1,16 @@
+Name,Category,ItemType,TrackSerials,SerialPrefix,SerialNextNumber,SerialSuffix,Description,UnitPrice,Markup,IsFixedMarkup,IsTaxInclusivePrice,Cost,SpecialTaxRate,LastVendor,VendorProductCode,VendorPrice,BarCode,ReorderPoint,ReorderQuantity,DefaultLocation,DefaultSublocation,Uom,SalesUom,SalesUomRatio1,SalesUomRatio2,PurchasingUom,PurchasingUomRatio1,PurchasingUomRatio2,ProductLength,ProductWidth,ProductHeight,ProductWeight,Remarks,SKU,Machine S/No,IsActive
+  MTP BOARD FOR SLEE TISSUE PROCESSOR,SLEE,Stockable,FALSE,,,,MTP BOARD REF NO: 39500341 AMO82140200441 ( FACULTY),0,,FALSE,FALSE,0,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ ADJUST BLOCK ASSY ,ELITECH SPARE PARTS,Stockable,FALSE,,,,6001-420 ,55692,,FALSE,FALSE,,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ CA 29-9 CHECK,OPTIKA,Stockable,FALSE,,,,,0,,FALSE,FALSE,,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ CASA(computer assisted semen analysis),BIOGENEX,Stockable,FALSE,,,, CASA(computer assisted semen analysis),0,,FALSE,FALSE,,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+" CEA ELISA, PK   ",DIASOURCE,Stockable,FALSE,,,,ELISA 96 test,115200,,FALSE,FALSE,0,,Diasource ImmunoAssays® S.A.,,0,DCLCCR1158,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,,1,1,,1,1,,,,,,,,TRUE
+ Cuvettes (Consumables),Fine Care,Stockable,FALSE,,,,1 Pack (100pics Of Cuvettes),15500,,FALSE,FALSE,,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ CYBERNET POWER CORD,Elitech,Stockable,FALSE,,,,40WPSU-2341 S/N: H00000463,0,,FALSE,FALSE,0,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ ECO PIPETTE 5-50UL,CAPP ,Stockable,FALSE,,,,1.800 RPM,0,,FALSE,FALSE,0,,CAPP,CRP-18X,0,,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,,1,1,,1,1,,,,,,CRP-18X,,TRUE
+ ERMA PRE-AMP (SENSOR) BOARD,Erma,Stockable,FALSE,,,,PRE-AMP (SENSOR) BOARD PCE-7033D,0,-100,FALSE,FALSE,65217.3913,,ERMA INC.,210B-15,150,DCLSP306,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+" FULLY ATOMATED CHEMISTRY ANALYZER, (PRO XS)",Elitech,Stockable,FALSE,,,,"SELECTRA PRO SX, 75 TEST/HR. 
+NO ISE.",9800000,96,FALSE,FALSE,5000000,,Elitech Group B.V (Instruments/spare parts),,0,,1,3,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,pcs.,,1,1,,1,1,,,,,,,,TRUE
+ FUME HOOD CABINET FH1000(E),BIOBASE,Stockable,FALSE,,,,FH1000(E),0,,FALSE,FALSE,,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ HANDLING,YAMATO,Stockable,FALSE,,,,,0,,FALSE,FALSE,,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ HCV Rapid Test Strip,SUNSHINE MEDICAL,Stockable,FALSE,,,,,0,,FALSE,FALSE,0,,,,,,0,,,,,,1,1,,1,1,,,,,,,,TRUE
+ HEMOSCALE ,SUNSHINE MEDICAL,Stockable,FALSE,,,,"HEMOSCALE BLOOD COLLECTION SCALE,",695000,,FALSE,FALSE,0,,"SunShine Medical Equipment Co., Ltd.",,450,,,,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",,,,1,1,,1,1,,,,,,,,TRUE

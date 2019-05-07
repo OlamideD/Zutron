@@ -1,0 +1,330 @@
+OrderNumber,InventoryStatus,PaymentStatus,Customer,ContactName,Phone,Email,BillingAddress1,BillingAddress2,BillingCity,BillingState,BillingCountry,BillingPostalCode,BillingAddressRemarks,ShipToCompanyName,ShippingAddress1,ShippingAddress2,ShippingCity,ShippingState,ShippingCountry,ShippingPostalCode,ShippingAddressRemarks,CurrencyCode,ExchangeRate,NonCustomerCost,OrderDate,OrderRemarks,Freight,InvoicedDate,DueDate,DatePaid,AmountPaid,RequestedShipDate,PONumber,SalesRep,Location,PricingScheme,PaymentTerms,PaymentMethod,TaxingScheme,Tax1Rate,Tax2Rate,CalculateTax2OnTax1,Tax1Name,Tax2Name,Tax1OnShipping,Tax2OnShipping,Sales Type,Sales Person,LPO Date,ItemName,ItemDescription,ItemQuantity,ItemQuantityUoM,ItemUnitPrice,ItemDiscount,ItemSubtotal,ItemSerials,SpecialTaxRate,IsCancelled
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"EON ONE SEMI AUTOMATED CHEMISTRY ANALYSER, UNIT ","EON One SEMI AUTOMATED CHEMISTRY ANALYSER,S/N:00026",1,,2375000,0 %,2375000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"EON ONE DILUTOR, UNIT  ","EON One DILUTOR, S/N:00183",1,,0,0 %,0,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,SELECTRA PRO XS FULLY AUTOMATED CHEMISTRY ANALYZER UNIT ,s/n:15-9453,1,,8800000,0 %,8800000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"LABJENIKS FULLY AUTOMATED ELECTROLYTE ANALYZER,","ELECTROLYTE ANALYZER : K+, Na+, Cl-, Ca+, PH,TC02, S/N:0370427170102",1,,2350000,0 %,2350000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,APDIA WASHER ,"APDIA  WASHER, 10000. S/N:AW0080217APD",1,,3840000,0 %,3840000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,APDIA ELISA READER (TOUCH),"APDIA ELISA READER, 11000, S/N:RT0210217APD",1,,0,0 %,0,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"APDIA SHAKER,","APDIA SHAKER, 12000, S/N:SH0080115APD",1,,0,0 %,0,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"VEDA LAB EASY READER POINT OF CARE, ","VEDA LAB EASY READER, S/N:ERP01001986",1,,1483000,0 %,1483000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"MYTHIC 18 FULLY AUTOMATED HEMATOLOGY ANALYSER, (Stocked Product)","MYTHIC 18 ANALYSER, M18OT, S/N:100617-009829",1,,2864000,0 %,2864000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"BECKMAN FULLY AUTOMATED HEMATOLOGY ANALYZER, (DXH 500)  ","beckman hematolgy analyzer,  5 PART DIFF, DXH  500
+, S/N:AZ080420",1,pcs.,5964000,0 %,5964000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,ROLLER MIXER,S/N:20170119,1,,195000,0 %,195000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,DIAGON SEMI AUTOMATED COAGULATION ANALYZER,"COAG 4D COAGULOMETER D-DIMER  G-COAG4DDI, S/N:0801-0417",1,,1950000,0 %,1950000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"ELECTROPHORESIS POWER SUPPLY, CTN ", S/N:2014080133,1,,686000,0 %,686000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,ELECTROPHORESIS MACHINE TANK,S/N:BSH801432,1,,0,0 %,0,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"HEMATOCRITE CENTRIFUGE, UNIT ",S/N:24111501002,1,,575000,0 %,575000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,MICROBIOLOGY ANALYSIS SYSTEM ,"Microbiology analysis system, MODEL: TDR 300B, s/n:3B170808008",1,,13105508.07,0 %,13105508.07,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,Laboratory Incubator,S/N:150721,1,,695000,0 %,695000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,OVEN,S/N:120915968,1,pcs.,685000,0 %,685000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,AVISHKAR STERILE AUTOCLAVE,WITH BUCKET S/N:ST-12642,1,,225000,0 %,225000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,LASANY ANAEROBIC JAR  ,"LASSANY ANAEROBIC JAR, LAC 3.5",1,,235000,0 %,235000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"OSCILATOR/ROTATOR,  ",OSCILATOR/ROTATOR,1,,395000,0 %,395000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,BIOSAFETY CABINET,WITH COMPLETE ACCESSORIES.S/N:BSC31A1606237,1,,2960000,0 %,2960000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"Q16 REAL TIME PCR MACHINE, ",S/N:Q16-482089,1,,6850500,0 %,6850500,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"BOSCH VORTEX MIXER, UNIT ",S/N:200408038,1,,225000,0 %,225000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,MINI CENTRIFUGE,S/N:MU2016060339,1,,495000,0 %,495000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"KERN WEIGHING BALANCE, 650G\0.1G 0.5G/0.01G/UNIT ",S/N:W1404092,1,,225000,0 %,225000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"TABLE TOP WATER DISTILLER,  ",S/N:341057,1,,225000,0 %,225000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,LASSANY PIPETTE 100-1000UL ,100-1000ul,2,,28000,0 %,56000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"LASSANY PIPETTE, 10-100UL ",10-100ul,2,,28000,0 %,56000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"VARIABLE PIPETTE, 1-10ML ",1-10ml,1,,28000,0 %,28000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"LASSANY PH METER, UNIT  ",S/N:2011-12/113,1,,235000,0 %,235000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,URINE ANALYZER BA600,"URINE ANALYZER BA600 V2.1-20171226, s/n: 02409261700462",1,,596000,0 %,596000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"ELECTRONIC PRECISION  BALANCE, UNIT  ",S/N:027862,1,pcs.,596000,0 %,596000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,MICROS BINOCULAR MICROSCOPE MC50 LED,"S/N:2-203263,2-203256",2,,566000,0 %,1132000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,WATER BATH 13L ,S/N:WB401436,1,pcs.,495000,0 %,495000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,PHLEBOTOMY COUCH,BASKET DONOR COUCH,1,pcs.,189700,0 %,189700,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"BOSCH BENCH TOP CENTRIFUGE, 24 BUCKET ",S/N:BSH024714,1,,495000,0 %,495000,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,DISCOUNT,,1,,-3681708,0 %,-3681708,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,"BECKMAN MONOCHROME LASER LEXMARK PRINTER, UNIT ","BECKMAN MONOCHROME LASER LEXMARK PRINTER, MS310D",1,pcs.,0,0 %,0,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,ACCESSORIES FOR SELECTRA PRO XS, UNIT  ,1,pcs.,0,0 %,0,,Taxable,False
+SO-000863,Unfulfilled,Partial,P- SEVEN MEDICAL DIAGNOSTIC,Andrew,8166717574,,Apo,Abuja,Abuja,FCT,Nigeria,,,,Apo,Abuja,Abuja,FCT,Nigeria,,,NGN,1,,9/25/2017 11:09:24 AM,"Please find below the breakdown of payment :
+1. Paid N13,600,000.00 on 27th September,2016. With cheque
+2. Paid N7,400,000.00 on 10th October, 2016 with cheque
+3. Paid N9,500,000.00 (x2 i.e. N19,000,000.00 ) in two separate transfers on 26th October, 2016.  
+4.
+Total Of N40,000,000.00
+
+BALANCE: N17,600,000.00",,2/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,12/21/2017 4:39:55 PM,51200000,9/25/2017 12:00:00 AM,,Kingsley Ezeh,"DCL House, Plot 1299 Fumilayo Ransome Kuti Way, Area 3, PMB 690 Garki, Abuja",Normal Price,NET0,,No Tax,0,0,False,,,True,True,LPO SUPPLY,,,Hp COMPUTER,S/N:CZC5122MFL,1,,0,0 %,0,,Taxable,False
